@@ -2,4 +2,4 @@ summary: Portable UPnP development kit
 webpage: https://pupnp.sourceforge.io/
 version: 1.14.18
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libupnp-1.14.18-android-29-arm64-v8a.tar.xz
-bin-sha: e115216c83c345f737039e088446b0baa29fbe5f0d8377114ba562e3aa0fe7cf
+bin-sha: 1e193b350dfeb0dad860e18bd8470552616d7f00629b647fb35502684e0f97f9

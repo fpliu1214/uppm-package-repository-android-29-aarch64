@@ -2,4 +2,4 @@ summary: C library implementing the SSH2 protocol
 webpage: https://libssh2.org/
 version: 1.11.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libssh2-1.11.0-android-29-arm64-v8a.tar.xz
-bin-sha: f43e7c6790634ce1c9c92b7b2cdea4857a267b6378c80616086a4266ca3faec4
+bin-sha: 806127b0bcd88fbf7019c3a8922c5232ff2a3ad82615cd28f3d65135417a906b

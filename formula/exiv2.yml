@@ -2,4 +2,4 @@ summary: A command-line utility to read, write, delete and modify Exif, IPTC, XM
 webpage: https://exiv2.org/
 version: 0.28.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/exiv2-0.28.2-android-29-arm64-v8a.tar.xz
-bin-sha: 927a3ddde534a40e39989c52e30b3849a7c00da9a4e4607dbd8ebecca757e451
+bin-sha: 1484fd8b708beb4516b4c4333ed2df0b941fed2fb8fdf6ae6dca9eb1aadd6a8d

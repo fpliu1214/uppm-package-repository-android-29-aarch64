@@ -2,4 +2,4 @@ summary: Base64 encoding/decoding library
 webpage: https://libb64.sourceforge.net/
 version: 1.2.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libb64-1.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: 4df0299b4853f47a07c332334a0e9744b3f12de02cc99d82acd5d9cb54575376
+bin-sha: 815452b5ca568803900335eb30774096d035e8e564debe274a1023e4eccce5b8

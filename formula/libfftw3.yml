@@ -2,4 +2,4 @@ summary: C library for computing the Discrete Fourier Transform
 webpage: http://www.fftw.org
 version: 3.3.10
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libfftw3-3.3.10-android-29-arm64-v8a.tar.xz
-bin-sha: 2349c3b85ed715397597aeb3ea8d36ef180cbd5f59e20a12d0aac2c84a8b8862
+bin-sha: c45976af28087a1139b653b9edf4f6fdb52d81fc980e7fcf2b5bef84154b95e0

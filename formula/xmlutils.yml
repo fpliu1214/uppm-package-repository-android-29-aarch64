@@ -2,4 +2,4 @@ summary: A collections of command-line utilities provided by libxml2
 webpage: http://xmlsoft.org
 version: 2.12.6
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/xmlutils-2.12.6-android-29-arm64-v8a.tar.xz
-bin-sha: 7a8092d3673d48eb837aba3632a62a3ac2a54579b2c5e83a5ca2d6d682d9cb39
+bin-sha: 680dbb81de4ac02a0f3c58a05efba9117eab5f87fe764f292aaf45c99e9aff84

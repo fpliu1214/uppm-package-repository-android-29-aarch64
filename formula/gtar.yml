@@ -2,4 +2,4 @@ summary: GNU version of the tar archiving utility
 webpage: https://www.gnu.org/software/tar
 version: 1.35
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/gtar-1.35-android-29-arm64-v8a.tar.xz
-bin-sha: 0949a29a11960207f6782774416c34a89982350435056681d3df0947009ec7e1
+bin-sha: e95a2c9e33ef9695a10b7f30f32daf025dded070c481dd542f7ac60769f6afb3

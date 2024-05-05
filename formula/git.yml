@@ -2,4 +2,4 @@ summary: A free and open source distributed version control system with speed an
 webpage: https://git-scm.com/
 version: 2.44.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/git-2.44.0-android-29-arm64-v8a.tar.xz
-bin-sha: ee46b9f8657e62211364d306dfe9511dc1dee7e3c34217324dc83d25294d97b3
+bin-sha: 4e961c5c8993eb94240d450951f947dc6665ab901611b087def7a38723c843d4

@@ -2,4 +2,4 @@ summary: Fast script language for Go
 webpage: https://tengolang.com
 version: 2.17.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/tengo-2.17.0-android-29-arm64-v8a.tar.xz
-bin-sha: 0e94345eee178027e57d7b3adb7dbeec8536f8f9cb61e61a2fac5ae8c9139adc
+bin-sha: 61e304ec00b8eab714de074040d20777ed867a2a10ad1c682616a89070c6e717

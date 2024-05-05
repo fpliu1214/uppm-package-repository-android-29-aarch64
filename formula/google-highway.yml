@@ -2,4 +2,4 @@ summary: Performance-portable, length-agnostic SIMD with runtime dispatch
 webpage: https://github.com/google/highway
 version: 1.0.3
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/google-highway-1.0.3-android-29-arm64-v8a.tar.xz
-bin-sha: df797ea0e5b69182a709f96d5e59001080efce9e09cbb1906ea6ea018828d8b5
+bin-sha: 41ea064bbada8a209761a6f2b4d0fa7937e2e4a6cb424a72d3b63087df1af25d

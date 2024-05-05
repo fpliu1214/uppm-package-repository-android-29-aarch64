@@ -2,4 +2,4 @@ summary: A fast and flexible static site generator
 webpage: https://gohugo.io
 version: 0.125.4
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/hugo-0.125.4-android-29-arm64-v8a.tar.xz
-bin-sha: 5be0cf7c8c55fbd007661c7c79507595f0c53e5506afef6d429ab713f26c9d5f
+bin-sha: d60e1d71fb832808ae87fcef95be3eb555cea0e17699da78e2bdf8af13f4d26b

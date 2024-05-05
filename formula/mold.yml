@@ -2,4 +2,4 @@ summary: Modern Linker
 webpage: https://github.com/rui314/mold
 version: 2.30.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/mold-2.30.0-android-29-arm64-v8a.tar.xz
-bin-sha: f6a84cde673ca436d0697516efcd514ebe12a733b528e7d10c0cb18166a4099c
+bin-sha: 30f050664385083bee3764cbe613edaf1015b2b540094bbf3eda0691be0f83b9

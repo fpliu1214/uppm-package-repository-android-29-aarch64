@@ -2,4 +2,4 @@ summary: wiki manage service
 webpage: https://github.com/phachon/mm-wiki
 version: 0.2.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/mm-wiki-0.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: 1afba6dfe2a23ca7c9bbe225d47885b74aa8424dab3b4c9a54922a285bb7a069
+bin-sha: c1d7b7db5c97a4f118b1a6c476079635544fb6e22bf7e5387c948f6cdc7a5c86

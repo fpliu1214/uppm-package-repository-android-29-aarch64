@@ -2,4 +2,4 @@ summary: A reliable, high-performance, thread-safe, flexible, clear-model loggin
 webpage: https://github.com/HardySimpson/zlog
 version: 1.2.17
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libzlog-1.2.17-android-29-arm64-v8a.tar.xz
-bin-sha: 19a0e99857ef5808f3301a2a61438d7df9c1c6aecdd9b79c6339518f74afb7cb
+bin-sha: 0e178d5655a7dc40a9397ff78c6cb663a8e2f5475f36fe046d89d3e2c19bfce4

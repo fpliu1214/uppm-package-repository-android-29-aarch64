@@ -2,4 +2,4 @@ summary: Passive DNS network mapper (a.k.a. subdomains bruteforcer)
 webpage: https://github.com/resurrecting-open-source-projects/dnsmap
 version: 0.36
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/dnsmap-0.36-android-29-arm64-v8a.tar.xz
-bin-sha: 152238e49c687217751d3653eca9186aa8bd23fbe707170fd5de8829262dc2d1
+bin-sha: e019e04bb5367497fd01cae5b6ddef9fa75ae3df70f976feabe6d3ec9049083f

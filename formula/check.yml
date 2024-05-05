@@ -2,4 +2,4 @@ summary: A unit testing framework for C
 webpage: https://libcheck.github.io/check
 version: 0.15.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/check-0.15.2-android-29-arm64-v8a.tar.xz
-bin-sha: a8bac34155d72b87a59f6a91ec9ee21c3e360a9b8ee7d13aea82da0452a00c9c
+bin-sha: bd8152ff8f86a12b01007419c4bdd465b72d1c2ff2343901be28321f2c78cb6e

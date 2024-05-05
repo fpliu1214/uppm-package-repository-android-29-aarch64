@@ -2,4 +2,4 @@ summary: A high-performance JPEG image codec that uses SIMD instructions (MMX, S
 webpage: https://www.libjpeg-turbo.org/
 version: 3.0.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libjpeg-turbo-3.0.2-android-29-arm64-v8a.tar.xz
-bin-sha: 19755970dcad40abc8b01686441e51f357621260386bdc2954a246af080491a1
+bin-sha: b6dcb7c70c72169c10cf344352fc93931282174fab19d0679d9fe36248d77838

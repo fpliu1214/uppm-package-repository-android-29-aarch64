@@ -2,4 +2,4 @@ summary: A simple, fast and user-friendly alternative to find(1)
 webpage: https://github.com/sharkdp/fd
 version: 9.0.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/fd-9.0.0-android-29-arm64-v8a.tar.xz
-bin-sha: d76bc199da781225576b6d9cb260412a7d77b0d44687ad5756a55e5e2458cba9
+bin-sha: 192696569bfea186d648e1bbe3983ab3bd080ba1ab36b99e4731afa81da93774

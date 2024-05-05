@@ -2,4 +2,4 @@ summary: A portable and efficient C library for determining the call-chain of a 
 webpage: https://www.nongnu.org/libunwind
 version: 1.7.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libunwind-1.7.2-android-29-arm64-v8a.tar.xz
-bin-sha: 544ed9143e0800a9a6988153d701e26feee92c1b4270246ab139e73fb9ac5369
+bin-sha: bfd0df75b87259d296c4bc901bae8f26035816dfa3bf4e3770e678ba80c01d12

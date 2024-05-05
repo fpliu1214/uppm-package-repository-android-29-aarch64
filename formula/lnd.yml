@@ -2,4 +2,4 @@ summary: Lightning Network Daemon
 webpage: http://dev.lightning.community/
 version: 0.15.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/lnd-0.15.0-android-29-arm64-v8a.tar.xz
-bin-sha: 82748defdd943fa0207ed626c163c5f4765b714f9c4c43d4160c84493bff1d34
+bin-sha: 92a9de532987a01e758e53381fb265d868b468f9713728abf5428d401d487201

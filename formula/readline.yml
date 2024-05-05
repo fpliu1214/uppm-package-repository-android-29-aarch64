@@ -2,4 +2,4 @@ summary: Library for command-line editing
 webpage: https://www.gnu.org/software/readline
 version: 8.2.10
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/readline-8.2.10-android-29-arm64-v8a.tar.xz
-bin-sha: 138febd2c522c94d540cf78c1de0b8251417a34f7fb36e3fe263538e9764263e
+bin-sha: 5bd348efc4363b638074f7108693ac7dcf3fa59d4ba39c659baa8bb6a4cdb952

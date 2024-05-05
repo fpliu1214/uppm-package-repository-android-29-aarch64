@@ -2,4 +2,4 @@ summary: A simple .ini file parser in C
 webpage: https://github.com/benhoyt/inih
 version: r58
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/inih-r58-android-29-arm64-v8a.tar.xz
-bin-sha: 8612fd6f1e8315ffac1277cf724385b9cff8ed25e8bd64a51dfcd078e90a4262
+bin-sha: 7f40f4f0e8de1ef5c0fe39fd494952eea9d97ab9fdda770f27cbb40be30dfebb

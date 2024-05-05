@@ -2,4 +2,4 @@ summary: A command-line tool that allows you to easily and securely send files f
 webpage: https://github.com/schollz/croc
 version: 9.6.15
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/croc-9.6.15-android-29-arm64-v8a.tar.xz
-bin-sha: f7e57217ed01c0c8fc7f90fbd1e3556ad4d33d804f54782af3cfe69f18084bd3
+bin-sha: 7e38794fbdc927c0a352706e029c554ce525702a1893329bbc22321e8e975b7b

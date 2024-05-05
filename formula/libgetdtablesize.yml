@@ -2,4 +2,4 @@ summary: get descriptor table size
 webpage: https://linux.die.net/man/2/getdtablesize
 version: 1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libgetdtablesize-1-android-29-arm64-v8a.tar.xz
-bin-sha: afe590dd43a73165c2463d3baabf44044696e2967a6584dcdac19709842ecb8c
+bin-sha: 54b3027e13fde8a52ceec5329f5e675b16279258275b282b0036c52f3aa19400

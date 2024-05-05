@@ -2,4 +2,4 @@ summary: Codec library for encoding and decoding AV1 video streams
 webpage: https://aomedia.googlesource.com/aom
 version: 3.8.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/aom-3.8.2-android-29-arm64-v8a.tar.xz
-bin-sha: 4e61ec0a92cdf6f15c008eec46406db19ddeed16caf9e3ba8ebd6287eda40eaf
+bin-sha: 0d9c6186cc7580d2d38f02a1f5bec1bb688a4dce1d2032937fc0959a265c1cca

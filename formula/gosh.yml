@@ -2,4 +2,4 @@ summary: A shell parser, formatter, and interpreter with bash support written in
 webpage: https://github.com/mvdan/sh
 version: 3.4.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/gosh-3.4.1-android-29-arm64-v8a.tar.xz
-bin-sha: 4d5a6602553efacdd783f7309e247f9559ffdc9e084fd3b189d2d38c6e030559
+bin-sha: 007b7646bcd5208df183ca56ec6f95f25976293de98724847dc0045e2226b5e5

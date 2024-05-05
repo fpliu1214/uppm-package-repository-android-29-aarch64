@@ -2,4 +2,4 @@ summary: A free, open-source, command-line tool that is used to download files f
 webpage: https://www.gnu.org/software/wget
 version: 1.24.5
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/wget-1.24.5-android-29-arm64-v8a.tar.xz
-bin-sha: 11538fa5c9e86e139f0fe44501cc12c71bf130f0e6b080a3038753baf7c401a7
+bin-sha: 1cab9f3eb0840882971b6805b6c15619c4781a9514006edf0cb884c570fa6ad7

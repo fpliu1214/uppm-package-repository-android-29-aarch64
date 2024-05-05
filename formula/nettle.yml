@@ -2,4 +2,4 @@ summary: Low-level cryptographic library
 webpage: https://www.lysator.liu.se/~nisse/nettle
 version: 3.9.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/nettle-3.9.1-android-29-arm64-v8a.tar.xz
-bin-sha: 40423fe09854820650cf022c8f993200104c43d3edc685a5124b71930837a719
+bin-sha: 9deee12aa74ed316c3f55faf529f39650d94ebc62f096fb54a3132aa75e6f043

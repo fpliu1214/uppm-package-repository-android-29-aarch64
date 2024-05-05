@@ -2,4 +2,4 @@ summary: A small utility to modify ELF files
 webpage: https://github.com/NixOS/patchelf
 version: 0.18.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/patchelf-0.18.0-android-29-arm64-v8a.tar.xz
-bin-sha: 503ce95876c3b0320a7875d8c0fe192878f38a2f0d786636026e242740f8a05b
+bin-sha: 2c85767aa048165a8c2a4cfba23da3e444f6bcbd824d689117a9dc4b015b2eed

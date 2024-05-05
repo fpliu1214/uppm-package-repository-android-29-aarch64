@@ -2,4 +2,4 @@ summary: Print info and check PNG, JNG, and MNG files
 webpage: http://www.libpng.org/pub/png/apps/pngcheck.html
 version: 3.0.3
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/pngcheck-3.0.3-android-29-arm64-v8a.tar.xz
-bin-sha: 6f072b35feb05d0abe06c51eb76b491d88e36d5a41a0c5d1e6c01587a581e1f1
+bin-sha: 398e2a006cecd0d473783155168e9b3bb5437a83780c76de706eaffe5c8e66b4

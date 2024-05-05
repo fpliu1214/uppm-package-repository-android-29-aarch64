@@ -2,4 +2,4 @@ summary: Shell plugin manager
 webpage: https://getantibody.github.io/
 version: 6.1.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/antibody-6.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: 5acb6f459ae448ae0caf52f02c27421434759ea4aa505002dec980547cc6bf43
+bin-sha: 53eb6c495efdb2f367cec5a930cecaebb18954be52776872cb59c756dba5aeab

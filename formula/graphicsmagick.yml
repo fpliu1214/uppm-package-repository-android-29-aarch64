@@ -2,4 +2,4 @@ summary: Image processing tools collection
 webpage: http://www.graphicsmagick.org/
 version: 1.3.43
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/graphicsmagick-1.3.43-android-29-arm64-v8a.tar.xz
-bin-sha: 1c7ee5e450269824064129349f48d35a3998eeeb5bdf095c12a43443bde88e1e
+bin-sha: 9ee09645a2de7cf4cd9f05a6852078ba3592061a7e105b4f082ef6bfdb35e0fe

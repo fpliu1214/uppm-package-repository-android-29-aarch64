@@ -2,4 +2,4 @@ summary: AV1 decoder targeted to be small and fast
 webpage: https://code.videolan.org/videolan/dav1d
 version: 1.4.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libdav1d-1.4.1-android-29-arm64-v8a.tar.xz
-bin-sha: d8c04ab5601848cbc602705c9948351ca89ccff3dfdba205b240ff413bf3f152
+bin-sha: 39d3ec5f29ee7d0082be253b15b689578eebc98b251f56b25beadb65182990ba

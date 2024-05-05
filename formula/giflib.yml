@@ -2,4 +2,4 @@ summary: Library and utilities for processing GIFs
 webpage: https://giflib.sourceforge.io
 version: 5.2.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/giflib-5.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: 635d8dbe3794ca25167f5d107eae9243205387c000bc2f4e2a2ab48e6005f825
+bin-sha: 236d15b434a97d5dba316e1362e3141778ce6020327295d831a688416865790f

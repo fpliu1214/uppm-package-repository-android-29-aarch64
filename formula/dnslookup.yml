@@ -2,4 +2,4 @@ summary: A simple command line utility to make DNS lookups to the specified serv
 webpage: https://github.com/ameshkov/dnslookup
 version: 1.10.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/dnslookup-1.10.0-android-29-arm64-v8a.tar.xz
-bin-sha: ee3503132e7c3c065cf04612756434b38ed839d2d99c48c26c9a5fa75c9df6a3
+bin-sha: 73086d9e79e522e8ce9760bec7ea63dae3004f998e366e75a2f007c56b4393fd

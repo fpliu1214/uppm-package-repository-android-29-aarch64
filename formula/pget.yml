@@ -2,4 +2,4 @@ summary: The fastest file download client
 webpage: https://github.com/Code-Hex/pget
 version: 0.2.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/pget-0.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: 8191a9ee6e0a4f095bfdb2f8ccfa16433940eaf117452934eb050e4d583fb0d7
+bin-sha: a592f1a13f9ef42dc0a31d642798e13f9ab39a865f4d9a6b5078e5fbb4a240da
