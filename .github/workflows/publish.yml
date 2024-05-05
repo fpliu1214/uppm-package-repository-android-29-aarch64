@@ -52,8 +52,8 @@ jobs:
         with:
           name: ${{ matrix.pkg }}
           path: |
-            '*.tar.xz'
-            '*.yml'
+            ./*.tar.xz
+            ./*.yml
 
   build2:
     strategy:
@@ -102,8 +102,8 @@ jobs:
         with:
           name: ${{ matrix.pkg }}
           path: |
-            '*.tar.xz'
-            '*.yml'
+            ./*.tar.xz
+            ./*.yml
 
   build3:
     strategy:
@@ -152,8 +152,8 @@ jobs:
         with:
           name: ${{ matrix.pkg }}
           path: |
-            '*.tar.xz'
-            '*.yml'
+            ./*.tar.xz
+            ./*.yml
 
   publish:
     needs: [build1, build2, build3]

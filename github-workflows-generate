@@ -112,8 +112,8 @@ do
         with:
           name: \${{ matrix.pkg }}
           path: |
-            '*.tar.xz'
-            '*.yml'
+            ./*.tar.xz
+            ./*.yml
 EOF
 
         unset ITEMS
