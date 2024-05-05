@@ -2,4 +2,4 @@ summary: USB multiplexor library for iOS devices
 webpage: https://www.libimobiledevice.org
 version: 2.1.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libusbmuxd-2.1.0-android-29-arm64-v8a.tar.xz
-bin-sha: 37e584cd63cce2a695ef27dd4965bacb8cdaea5b2b85841f473f018a345e1cd0
+bin-sha: 80b731d5a641a7ff1a10317554887af77ac00530997be50a4d34f04236355c08

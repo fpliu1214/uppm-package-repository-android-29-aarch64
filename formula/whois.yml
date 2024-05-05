@@ -2,4 +2,4 @@ summary: Lookup tool for domain names and other internet resources
 webpage: https://github.com/rfc1036/whois
 version: 5.5.22
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/whois-5.5.22-android-29-arm64-v8a.tar.xz
-bin-sha: 6290f38b7f36ea0044e849da16128207486af65c3b2129ebe294515779e1b38f
+bin-sha: dfeceec0a472d62e31b3af3944b5f384f1fafbadff9479836c39979e7facd1ea

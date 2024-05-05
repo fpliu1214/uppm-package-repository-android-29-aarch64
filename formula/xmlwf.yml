@@ -2,4 +2,4 @@ summary: XML 1.0 parser
 webpage: https://libexpat.github.io
 version: 2.6.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/xmlwf-2.6.2-android-29-arm64-v8a.tar.xz
-bin-sha: 2c59543a29d8c50cbdac4205f5a21e3c45d74acb8d80860f36e7f31a6df0ae87
+bin-sha: 5f6c9b71dfee8d0343819c6f53e60caf65123e9f9f4b7414c592a8bf4da7c5b3

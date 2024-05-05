@@ -1,5 +1,5 @@
 summary: C++ websocket client/server library
 webpage: https://www.zaphoyd.com/projects/websocketpp/
 version: 0.8.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/websocketpp-0.8.2-android-29-arm64-v8a.tar.xz
-bin-sha: 
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/websocketpp-0.8.2-android-aarch64.tar.xz
+bin-sha: 06591b592abb4f3a29dc1c4474986621ee8a5df034b419a7c18d58540464c75f

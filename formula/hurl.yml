@@ -2,4 +2,4 @@ summary: Run and Test HTTP Requests with plain text and curl
 webpage: https://hurl.dev
 version: 4.3.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/hurl-4.3.0-android-29-arm64-v8a.tar.xz
-bin-sha: f097d5777a8ed59963824809cf8b650e7eae2dca1294b7223bd8b7426175b83e
+bin-sha: e4a85752c5f86bda9ee2505647eb464ff53f78945a68cd1c4055fd3332c11a69

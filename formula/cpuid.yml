@@ -2,4 +2,4 @@ summary: CPU feature identification for Go
 webpage: https://github.com/klauspost/cpuid
 version: 2.2.7
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/cpuid-2.2.7-android-29-arm64-v8a.tar.xz
-bin-sha: c00ff0b6093d3949b1407cf9d9701d1e65aca6a5e3402fbcda1088583d5e428f
+bin-sha: f7fc8783c6e06013f26e72f0f78af2f78c79c2f6298345ac4e2da3d1df3cc917

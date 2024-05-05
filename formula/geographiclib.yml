@@ -2,4 +2,4 @@ summary: C++ geography library
 webpage: https://geographiclib.sourceforge.io/
 version: r2.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/geographiclib-r2.2-android-29-arm64-v8a.tar.xz
-bin-sha: 088f9f71e5f03a8a25c75c06af137df6dcc25318474549e57f266a3c27efa9f0
+bin-sha: e3efa0150cfaf1e2b02c8708419ea95c5ea4c28288b1124abc4ecb32e410b82d

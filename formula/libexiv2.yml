@@ -2,4 +2,4 @@ summary: A C++ library and a command-line utility to read, write, delete and mod
 webpage: https://exiv2.org/
 version: 0.28.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libexiv2-0.28.2-android-29-arm64-v8a.tar.xz
-bin-sha: 55a7e1243987172100dcaf88b11b5aff39153947286b57015152572e56012f2d
+bin-sha: 28d775beacc73d5ceaf86dd62cd8d937717983b3b9f9222088c07f046f445b29

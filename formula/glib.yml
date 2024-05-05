@@ -2,4 +2,4 @@ summary: A general-purpose, portable utility library which provides many useful 
 webpage: https://developer.gnome.org/glib
 version: 2.78.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/glib-2.78.0-android-29-arm64-v8a.tar.xz
-bin-sha: f6ea66ac7afa2e5495baae9076497364cb6fbb6337c7fd6920942607b24e052d
+bin-sha: ef35cc538f766b3a6f5cc56cd5efc5297ab218568cc0770061bd09de61011e61

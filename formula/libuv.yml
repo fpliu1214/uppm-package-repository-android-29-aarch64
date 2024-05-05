@@ -2,4 +2,4 @@ summary: Multi-platform support library with a focus on asynchronous I/O
 webpage: https://libuv.org/
 version: 1.46.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libuv-1.46.0-android-29-arm64-v8a.tar.xz
-bin-sha: 423dec7276c8e1a5b19a4e398a3a54b0eb4c46c934ef87922d65961a02bbd454
+bin-sha: 6c73ef841810959ac1ae44abf38db4cef8ef4019df20d840b47c16d75b127585

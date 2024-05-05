@@ -2,4 +2,4 @@ summary: Interactive cli tool for HTTP inspection
 webpage: https://github.com/asciimoo/wuzz
 version: 0.5.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/wuzz-0.5.0-android-29-arm64-v8a.tar.xz
-bin-sha: c1dcc402fda40e7582a7d0ed1878e37d557f7b91bbdea107e3daaebbb869c36a
+bin-sha: 9cb95dff3374d8ea6c5ea2001e93a85e71f2345c41d2a4c51ff8b1a639d4a233

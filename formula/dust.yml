@@ -2,4 +2,4 @@ summary: A more intuitive version of du(1) in rust
 webpage: https://github.com/bootandy/dust
 version: 1.0.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/dust-1.0.0-android-29-arm64-v8a.tar.xz
-bin-sha: f921006d4f15f858e5624e545debf66f9ef4024669aa08566c660627d8666330
+bin-sha: 83ed8996ed5854f2d93f854863c902b9f4e5eaf3bc924e098e39c25ed0214487

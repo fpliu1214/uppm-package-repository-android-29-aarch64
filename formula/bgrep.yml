@@ -2,4 +2,4 @@ summary: Like grep but for binary strings
 webpage: https://github.com/tmbinc/bgrep
 version: 0.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/bgrep-0.2-android-29-arm64-v8a.tar.xz
-bin-sha: 74d60335272d6503b51caf7c3ef4231f151ee4a70347b018392362215d57fb6d
+bin-sha: c5a055dd5528c10a6fa8ca820d69befbc3e21921bfa7ed285e4e6dc48cb573c8

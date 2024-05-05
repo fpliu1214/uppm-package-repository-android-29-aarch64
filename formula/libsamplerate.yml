@@ -2,4 +2,4 @@ summary: Library for sample rate conpackage set version of audio data
 webpage: https://github.com/libsndfile/libsamplerate
 version: 0.2.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libsamplerate-0.2.2-android-29-arm64-v8a.tar.xz
-bin-sha: 45c68fd269044d4843bcf02091efe6ac3d48747124084278280ec5ad20cf281f
+bin-sha: 8b8ef9fe44db36f182c2b193bd5b503798baf82d7b3d7b804235ee09d85388d7

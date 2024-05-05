@@ -2,4 +2,4 @@ summary: RT Topology Library
 webpage: https://git.osgeo.org/gitea/rttopo/librttopo
 version: 1.1.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/librttopo-1.1.0-android-29-arm64-v8a.tar.xz
-bin-sha: 002c3ee8b1ee51ab142756fbcd413325e8533afb0c2a638f4d23f0d8b36da335
+bin-sha: 7538fcf568563bf40ca1de03b3075ce4a32b1f8ef8d7b9581b7053ba42b4c1a0

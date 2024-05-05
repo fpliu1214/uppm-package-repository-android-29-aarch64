@@ -2,4 +2,4 @@ summary: Color management engine supporting ICC profiles
 webpage: https://www.littlecms.com
 version: 2.16
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/lcms2-2.16-android-29-arm64-v8a.tar.xz
-bin-sha: f787459956da5d61c05a1f80d40348f9cc863e5e6fad4a493a1c70a32f78f43a
+bin-sha: 1b0608850f1f3b1f6c3aceb8c1b10531bc25e3e6c28798df831032fbc028541e

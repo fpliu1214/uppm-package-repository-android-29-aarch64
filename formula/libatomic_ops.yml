@@ -2,4 +2,4 @@ summary: Implementations for atomic memory update operations
 webpage: https://github.com/ivmai/libatomic_ops
 version: 7.8.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libatomic_ops-7.8.2-android-29-arm64-v8a.tar.xz
-bin-sha: fd14f8d9796f9af5fca9f1610fdc0aa8e7f1daf78c6c60fb54ffc61fe58cccff
+bin-sha: 24e492c6cbd1bd852b57ccf35961f1c8aa50690d69da73503608f64e2d4452a2

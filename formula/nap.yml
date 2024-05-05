@@ -2,4 +2,4 @@ summary: A code snippet manager for your terminal
 webpage: https://github.com/maaslalani/nap
 version: 0.1.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/nap-0.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: e66bbf2465f8e47b3bd75fd7b1e0bf03005e2a67a204c8f157aa189fba8e6de3
+bin-sha: c271b382a1a9b9351956bb368cc447132cccd5806276dc8b7b699559bd8aee49

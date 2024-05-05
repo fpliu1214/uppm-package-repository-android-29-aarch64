@@ -2,4 +2,4 @@ summary: Generic library support script
 webpage: https://www.gnu.org/software/libtool
 version: 2.4.7
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libtool-2.4.7-android-29-arm64-v8a.tar.xz
-bin-sha: e73056fa93d9325dd91f8a055280fe245e892ec34b7e20811fb8d0c02eb9dcb5
+bin-sha: b96c738a94b84b7671d2d1d1451f34c2d69f8350b56b030adf8d048c58518381

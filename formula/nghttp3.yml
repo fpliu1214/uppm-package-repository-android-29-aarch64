@@ -2,4 +2,4 @@ summary: HTTP/3 library written in C
 webpage: https://github.com/ngtcp2/nghttp3
 version: 2024.05.05
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/nghttp3-2024.05.05-android-29-arm64-v8a.tar.xz
-bin-sha: 1ad2e865b76ca66befc3db297e6bf3a6ace64b97b2674805bd4349822a7d6eee
+bin-sha: 8dd8ca6955e823322a1b9b9fb5cc50e55d308777b27b2a91c0a7bc9d86afcae6

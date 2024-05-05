@@ -2,4 +2,4 @@ summary: A powerful, enterprise-ready, open source web server with automatic HTT
 webpage: https://caddyserver.com/
 version: 2.7.6
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/caddy-2.7.6-android-29-arm64-v8a.tar.xz
-bin-sha: c2a844d9ea293d8465fe7a3c640ed2020ff57892bce8ccf075b2b73200919c68
+bin-sha: b95b4a14c22cf458a8f747d713256041767d49d7740eaadb9e9231b13b5684a9

@@ -2,4 +2,4 @@ summary: A command-line tool for displaying a random quotation
 webpage: https://github.com/shlomif/fortune-mod
 version: 3.18.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/fortune-3.18.0-android-29-arm64-v8a.tar.xz
-bin-sha: 178a512625524ccbe5415cb09985348526b17468ddc70369694048fff8ce9305
+bin-sha: 72edbef780d497dedaf5eb4a874824b35e06834469e1681f65c01a5ed0919b7c

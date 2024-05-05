@@ -2,4 +2,4 @@ summary: Library for manipulating pipelines of subprocesses in a flexible and co
 webpage: http://libpipeline.nongnu.org
 version: 1.5.7
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libpipeline-1.5.7-android-29-arm64-v8a.tar.xz
-bin-sha: 00cccc889257451fd247aaf90093ac9c2019c197346c14a83afadb6a7ac8ab8f
+bin-sha: 4f1ebe6acd5a9e61ac1b248711fc3c200cf7295728e2d7b7b5605cde41167bae

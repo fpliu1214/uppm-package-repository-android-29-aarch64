@@ -2,4 +2,4 @@ summary: New file format for still image compression
 webpage: https://jpeg.org/jpegxl/index.html
 version: 0.10.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libjxl-0.10.2-android-29-arm64-v8a.tar.xz
-bin-sha: c4fdc59258561356a7cfe6fe856d2d789654481e59ffb866def2aa8c6e6dcece
+bin-sha: cc831265cdb4dc97e8c1a6e01eb4c3d4db3e9643a6aa8f9f4526a58342a7bbc1

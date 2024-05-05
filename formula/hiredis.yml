@@ -2,4 +2,4 @@ summary: Minimalistic client for Redis
 webpage: https://github.com/redis/hiredis
 version: 1.2.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/hiredis-1.2.0-android-29-arm64-v8a.tar.xz
-bin-sha: 8e4b407afe19b224d1829774f27a5fdb0c590e6f9d010e2c2fe0f2fac4c25bbf
+bin-sha: b79e2448fea47f796b69a0998a2da64da67dfe4d69254e0b65a3984d7c28d78d

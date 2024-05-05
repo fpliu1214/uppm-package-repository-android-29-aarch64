@@ -2,4 +2,4 @@ summary: A secure, fast, compliant, and very flexible web server that has been o
 webpage: https://www.lighttpd.net/
 version: 1.4.76
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/lighttpd-1.4.76-android-29-arm64-v8a.tar.xz
-bin-sha: 62a5dbedcfbf378c5f905848a986f1b55395f9e9ef48eb92e996e157d2f699b2
+bin-sha: b7ef891885971554df4073e2c743597ccc755b9d258637c8cae1319481486018

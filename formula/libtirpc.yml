@@ -2,4 +2,4 @@ summary: Port of Sun Transport-Independent RPC library to Linux
 webpage: https://sourceforge.net/projects/libtirpc
 version: 1.3.3
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libtirpc-1.3.3-android-29-arm64-v8a.tar.xz
-bin-sha: 8ed4424fb62355571589809b3900febc92179e172590cb00f85bea8ab16250e8
+bin-sha: ee2f068efe8bd688510d11db06bcce257cd7f02bfa37fd76c8a7d82ad6fdc61b

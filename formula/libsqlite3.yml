@@ -2,4 +2,4 @@ summary: A small, fast, self-contained, high-reliability, full-featured, SQL dat
 webpage: https://www.sqlite.org/
 version: 3.45.3
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libsqlite3-3.45.3-android-29-arm64-v8a.tar.xz
-bin-sha: 4cec75d6f9063e9c4f5039e669424ef49f88ce066c2e443431d6d9383cc337f2
+bin-sha: fb303c4f94a162d040b52cc43847b474a6abd4df96ba4faef972fcc58828bc93

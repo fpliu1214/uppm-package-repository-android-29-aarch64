@@ -2,4 +2,4 @@ summary: Secure hashing function
 webpage: https://blake2.net
 version: 0.98.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libb2-0.98.1-android-29-arm64-v8a.tar.xz
-bin-sha: aaa1dc9d00fff9c4eb048c15585eb27f2d3fc4161dde08ec2f3e38253bdcfa17
+bin-sha: b8814922638bf0d24ebd090999df4c0e86a443972c3ef1b4567d8053650b55d6

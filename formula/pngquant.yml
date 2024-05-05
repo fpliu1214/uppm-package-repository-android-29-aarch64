@@ -2,4 +2,4 @@ summary: PNG image optimizing utility
 webpage: https://pngquant.org
 version: 3.0.3.crate
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/pngquant-3.0.3.crate-android-29-arm64-v8a.tar.xz
-bin-sha: 99a3d63577382891f42c5fafe136391985c3ecc7b2ffc17403ef42e2c897d3af
+bin-sha: c9ff78df9963855295f4c247f355d8566d44b1069646332634f5d173c008b331

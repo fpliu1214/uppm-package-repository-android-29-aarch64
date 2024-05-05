@@ -2,4 +2,4 @@ summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
 version: 9.5
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/coreutils-9.5-android-29-arm64-v8a.tar.xz
-bin-sha: 3d01ed179e5d44b4528e39fad3f5274a7dfba389ce9b39c284d6a1293f778931
+bin-sha: 604865df76972271161fb86a07e6a8a94a5b9328d1bc68bebae241cf930ffab3

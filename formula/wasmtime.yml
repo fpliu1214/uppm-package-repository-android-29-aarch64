@@ -2,4 +2,4 @@ summary: Standalone JIT-style runtime for WebAssembly, using Cranelift
 webpage: https://wasmtime.dev/
 version: 20.0.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/wasmtime-20.0.0-android-29-arm64-v8a.tar.xz
-bin-sha: e24025d15dfee1ec25f0e8790d2db91b810973721524ef314c6dec0b56a69e59
+bin-sha: 36f4e7ab955bd355d10627d64be7c3f3bb45f429177f66199b5875824e20ddc6

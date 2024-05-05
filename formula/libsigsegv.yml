@@ -2,4 +2,4 @@ summary: A library for handling page faults in user mode
 webpage: https://www.gnu.org/software/libsigsegv
 version: 2.14
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libsigsegv-2.14-android-29-arm64-v8a.tar.xz
-bin-sha: a2238b4dd4e6c1d1cf0a2353860bec554a22185634053ed7f5d8cb6907744779
+bin-sha: 040963a69db9ca35fe2f9b5b5de03a28e09a4fbd10bc77367179ce08d5184cef

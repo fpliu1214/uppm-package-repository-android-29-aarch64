@@ -2,4 +2,4 @@ summary: C++ functions matching the interface and behavior of python string meth
 webpage: https://github.com/imageworks/pystring
 version: 1.1.4
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/pystring-1.1.4-android-29-arm64-v8a.tar.xz
-bin-sha: 88ab6f8fbbd275e147291efcf8ab86d7fb01c66fe09402f9d2d4014579ab4fa6
+bin-sha: 4f052f7f2ecd19f6afa7f30224306414a09291a722690e8129f108a0f793e370

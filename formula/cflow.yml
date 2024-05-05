@@ -2,4 +2,4 @@ summary: A command-line tool to generate call graphs from C code
 webpage: https://www.gnu.org/software/cflow/
 version: 1.7
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/cflow-1.7-android-29-arm64-v8a.tar.xz
-bin-sha: f6757ba3f395bd745534fa5fcdb921c74559bb7fc3fb8f7e06aee70b06f8d18e
+bin-sha: 328bd3bd3f95b165b8c6b8973e80db9f3f31e14ee17739e75d5be3ff74f1260d

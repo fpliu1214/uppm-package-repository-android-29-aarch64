@@ -2,4 +2,4 @@ summary: A source code spell checker
 webpage: https://github.com/crate-ci/typos
 version: 1.20.10
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/typos-1.20.10-android-29-arm64-v8a.tar.xz
-bin-sha: 0cf40018bba1c9407abc0313364ebce44965ec17984140cb84194b96cd1f2450
+bin-sha: d6bd8b3823f0e56a36129b381dfaa8639acd8e9ebceaf376211a2f99f18ed271

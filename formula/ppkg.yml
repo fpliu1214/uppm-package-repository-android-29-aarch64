@@ -2,4 +2,4 @@ summary: A portable package manager for Unix-like systems
 webpage: https://github.com/leleliu008/ppkg
 version: 0.1000.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/ppkg-0.1000.2-android-29-arm64-v8a.tar.xz
-bin-sha: 1e96815208714104df8503c7377bd8fd32ec043ea83c5eb463b85bab60cbd2ad
+bin-sha: 5a3377e21f94af1c5e2bba87b3aa9fab501d328593e7fbae3c5f1ecef6475357

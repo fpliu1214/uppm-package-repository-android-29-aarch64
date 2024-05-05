@@ -2,4 +2,4 @@ summary: hexdump library and cli
 webpage: https://www.25thandclement.com/~william/projects/hexdump.c.html
 version: 20181215
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/hexdump-20181215-android-29-arm64-v8a.tar.xz
-bin-sha: 64a0e37c34627d8822bee2d8194275ed1147974cf05b26177adf7ef2af4d7f00
+bin-sha: adee0de3df21e978dc8eeba555eeed4e973ac1fd24d42ed5aa1b66ff2f647b6c

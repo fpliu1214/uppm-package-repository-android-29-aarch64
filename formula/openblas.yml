@@ -2,4 +2,4 @@ summary: Optimized BLAS library
 webpage: https://www.openblas.net
 version: 0.3.26
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/openblas-0.3.26-android-29-arm64-v8a.tar.xz
-bin-sha: b1b49958c837a37ff6df72aa345558adace32bc8e69665edd4c833868e899b4a
+bin-sha: b3b92321774208de19d00e19f4323dd270289d4a1a661fb35d056351f2d750b6

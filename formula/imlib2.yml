@@ -2,4 +2,4 @@ summary: Image loading and rendering library
 webpage: https://sourceforge.net/projects/enlightenment/
 version: 1.12.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/imlib2-1.12.2-android-29-arm64-v8a.tar.xz
-bin-sha: 3d42335a8206042f2792ba92712ea78d812bf33f69967418130caa650913fa42
+bin-sha: e1259b3b34cc0bafa7412fbeb50baecac6550b647d2fc491933dd1fef345cd90

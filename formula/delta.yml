@@ -2,4 +2,4 @@ summary: Syntax-highlighting pager for git and diff output
 webpage: https://github.com/dandavison/delta
 version: 0.17.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/delta-0.17.0-android-29-arm64-v8a.tar.xz
-bin-sha: 277ce248b6dc6c84bcb43b74e47eca06143ceb51c37c6518bb4a37aab22dbc69
+bin-sha: 2c7d5868f9f2ea702275e2535761f1c4e8f9b075d0595a7801bdb721290c5b86

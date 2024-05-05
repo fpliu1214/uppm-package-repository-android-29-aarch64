@@ -2,4 +2,4 @@ summary: Common error values for all GnuPG components
 webpage: https://www.gnupg.org/related_software/libgpg-error
 version: 1.48
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libgpg-error-1.48-android-29-arm64-v8a.tar.xz
-bin-sha: a34dbf693e02899518117e9ab31af2533203820a2a23185729bcc85115b0c191
+bin-sha: 9ceb6fd2d2b78a319d1eb9a17c6fdba66fe6daf1471edc300eaa9a3e0f88313f

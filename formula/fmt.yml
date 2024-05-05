@@ -2,4 +2,4 @@ summary: An open-source C/C++ library for formatting that provides a fast and sa
 webpage: https://fmt.dev
 version: 10.2.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/fmt-10.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: 22220023866ce91a5f060173b50ac060ff1e1d6cfb601e50057cfc85eab2825f
+bin-sha: d60801658371b0f6883dd2e9a1772486d91c97ec228fdfbc7558108df9d8368d

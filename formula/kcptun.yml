@@ -2,4 +2,4 @@ summary: Stable & Secure Tunnel based on KCP with N/M multiplexing and FEC
 webpage: https://github.com/xtaci/kcptun
 version: 20240107
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/kcptun-20240107-android-29-arm64-v8a.tar.xz
-bin-sha: c78fffaed1605e055c0a056e41cb343a6105404c6174d44d1c466d335c2d82b7
+bin-sha: fceeca948dd19e56649e5fc98c72618654f11064a3cb21af3771aca961a35aca

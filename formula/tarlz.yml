@@ -2,4 +2,4 @@ summary: A massively parallel (multi-threaded) combined implementation of the ta
 webpage: https://www.nongnu.org/lzip/tarlz.html
 version: 0.25
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/tarlz-0.25-android-29-arm64-v8a.tar.xz
-bin-sha: ab4430b80b031ecfbb1a7ffd8323b9bf6ffb874f91fdba6f8a9742a5a509985c
+bin-sha: 7e2632d1c3adb6314ffe3d8392c944c3a887af99e1b93fdbe2d75ad19717fdf5

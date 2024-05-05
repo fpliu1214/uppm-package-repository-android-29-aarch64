@@ -2,4 +2,4 @@ summary: A file compressor
 webpage: https://www.lzop.org/
 version: 1.04
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/lzop-1.04-android-29-arm64-v8a.tar.xz
-bin-sha: 636ae04b763f4c053eae9f4bae38efb4f48e6942db93601f7960ecd722707bdf
+bin-sha: e81de701662939b8697e8811b5d6f7d3fc5978a69c4f7767668d20e3103188ec

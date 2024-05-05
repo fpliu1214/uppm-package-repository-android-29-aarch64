@@ -2,4 +2,4 @@ summary: A simple (but less powerful) GNU gettext libintl replacement
 webpage: https://github.com/j-jorge/libintl-lite
 version: 2024.05.05
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libintl-lite-2024.05.05-android-29-arm64-v8a.tar.xz
-bin-sha: 7159dce313289ebf7a65f6eb8c017f388b783dfcf2a8e77ed6a450e94ed6efb1
+bin-sha: a4dae8fca914aa037ad6dc6a830dfc512992b7a1604b87ef177d329bb478c1aa

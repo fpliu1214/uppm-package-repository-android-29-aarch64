@@ -2,4 +2,4 @@ summary: Friendly and expressive shell
 webpage: https://elv.sh/
 version: 0.20.1
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/elvish-0.20.1-android-29-arm64-v8a.tar.xz
-bin-sha: 91a5120a69c8e2061dc5f46f006f37161ad1fc63e065cdc6ccbe599075a4e2ce
+bin-sha: 7c4638303b588f702f909edd0253533c6adcb7f91e415cb4e4b35d40e11c8d22

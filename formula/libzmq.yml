@@ -2,4 +2,4 @@ summary: An open-source universal messaging library
 webpage: https://zeromq.org/
 version: 4.3.5
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libzmq-4.3.5-android-29-arm64-v8a.tar.xz
-bin-sha: 84da8e00d3d82ee5a8e24147e583f0b39c98e2046885a1fc58feb00c6f7ad173
+bin-sha: 6522dd59122432f519ecbac2667f8d5608cef819322ff4e1522a128c89b775b7

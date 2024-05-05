@@ -1,5 +1,5 @@
 summary: C++ template library for linear algebra
 webpage: https://eigen.tuxfamily.org/
 version: 3.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libeigen-3.4.0-android-29-arm64-v8a.tar.xz
-bin-sha: 
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libeigen-3.4.0-android-aarch64.tar.xz
+bin-sha: 8bf06622c4cf8ce09f56b0dd2fe3c648f1f0f0e2e8fdb7165d476db0ddba77a4

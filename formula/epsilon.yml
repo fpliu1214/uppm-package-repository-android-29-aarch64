@@ -2,4 +2,4 @@ summary: Powerful wavelet image compressor
 webpage: https://epsilon-project.sourceforge.io
 version: 0.9.2
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/epsilon-0.9.2-android-29-arm64-v8a.tar.xz
-bin-sha: 46910cf20c30495e8eb6f8854cd4d31910764ccb691e543fd182c88d69aa2bd0
+bin-sha: d77e625cec8076463b556e501b3991931a028a2159fb5c6d3e7b7f5f5611d1c9

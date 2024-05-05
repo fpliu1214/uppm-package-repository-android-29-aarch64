@@ -2,4 +2,4 @@ summary: Library and utility to talk to iBoot/iBSS via USB
 webpage: https://www.libimobiledevice.org
 version: 1.2.0
 bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libirecovery-1.2.0-android-29-arm64-v8a.tar.xz
-bin-sha: abcc8d95355ed6fe1f672000fd5f7c135e7070f4558be8948e2043bcbe5a5252
+bin-sha: 3b019058456fa42ffda61f6456f19e10a5873466dfe493ac24a6f2c3a4157334
