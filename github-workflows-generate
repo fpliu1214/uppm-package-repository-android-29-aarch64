@@ -93,7 +93,8 @@ do
               PACKAGE_VERSION="\$(/usr/bin/ndk-pkg info-installed "\$item" version)"
 
               PACKAGE_NAME="\${item#*/}"
-              PACKAGE_FILENAME="\$PACKAGE_NAME-\$PACKAGE_VERSION-\${item%/*}.tar.xz"
+
+              PACKAGE_FILENAME="\$(ls \$PACKAGE_NAME-\$PACKAGE_VERSION-*.tar.xz)"
 
               PACKAGE_BIN_SHA="\$(sha256sum "\$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
@@ -133,4 +134,4 @@ cat >> .github/workflows/publish.yml <<EOF
 
 EOF
 
-cat >> .github/workflows/publish.yml < foot.yml
+cat >> .github/workflows/publish.yml < foot
