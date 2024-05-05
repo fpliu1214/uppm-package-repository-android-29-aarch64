@@ -1,0 +1,5 @@
+summary: Implementation of CRC32C with CPU-specific acceleration
+webpage: https://github.com/google/crc32c
+version: 1.1.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libcrc32c-1.1.2-android-29-arm64-v8a.tar.xz
+bin-sha: 5a5791041f736e42cb5b7c15f7d5123875edb61f7294e47d33969bc25ca8cd63

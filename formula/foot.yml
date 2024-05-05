@@ -19,7 +19,7 @@
 
           TAGNAME="$(date +%Y.%m.%d)"
 
-          sed -i "s|2024.05.04|$TAGNAME|" *.yml
+          sed -i "s|2024.05.05|$TAGNAME|" *.yml
 
           mv *.yml formula/
 

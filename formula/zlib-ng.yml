@@ -1,0 +1,5 @@
+summary: Zlib replacement with optimizations for next generation systems
+webpage: https://github.com/zlib-ng/zlib-ng
+version: 2.1.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/zlib-ng-2.1.6-android-29-arm64-v8a.tar.xz
+bin-sha: f7c0793945d885c542924adda90128d3ccdd7c601b084b4ae4c687c2aa9d94b2

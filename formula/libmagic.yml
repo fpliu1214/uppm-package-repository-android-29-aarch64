@@ -1,0 +1,5 @@
+summary: A C library to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.45
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libmagic-5.45-android-29-arm64-v8a.tar.xz
+bin-sha: c650b0e42bf3ea769a967402255a2aedb8f9ebc623b7e14ecc2f81c85ee0bb42

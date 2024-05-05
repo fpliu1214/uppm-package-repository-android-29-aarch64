@@ -1,0 +1,5 @@
+summary: C++ functions matching the interface and behavior of python string methods with std::string
+webpage: https://github.com/imageworks/pystring
+version: 1.1.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/pystring-1.1.4-android-29-arm64-v8a.tar.xz
+bin-sha: 865b73e699a3961551fba91544b5865e05e92a3c9ec9c00b8666a6a434a4b6d7

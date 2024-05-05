@@ -1,0 +1,5 @@
+summary: A free and easy-to-use client-side URL transfer library
+webpage: https://curl.haxx.se/
+version: 8.7.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libcurl-8.7.1-android-29-arm64-v8a.tar.xz
+bin-sha: dab8c1e29732e554c73888e6f68817b2758e3a4aa263f544b7018f866ee3822d

@@ -1,0 +1,5 @@
+summary: Implementation of the Secure Real-time Transport Protocol
+webpage: https://github.com/cisco/libsrtp
+version: 2.4.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libsrtp-2.4.2-android-29-arm64-v8a.tar.xz
+bin-sha: 7b25700b8e3fe58fb1c50329b9d504aebd04c2da7e9d6b3aa8a3752701032d4d

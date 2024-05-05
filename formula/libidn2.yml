@@ -1,0 +1,5 @@
+summary: International domain name library (IDNA2008, Punycode and TR46)
+webpage: https://www.gnu.org/software/libidn/#libidn2
+version: 2.3.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libidn2-2.3.7-android-29-arm64-v8a.tar.xz
+bin-sha: f20d4f8593d512da7cb243a370da992046c5fa919de29359f4d37deacc5a1d6c

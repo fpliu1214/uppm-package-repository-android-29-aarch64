@@ -1,0 +1,5 @@
+summary: A C++ library to benchmark code snippets, similar to unit tests
+webpage: https://github.com/google/benchmark
+version: 1.8.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/google-benchmark-1.8.3-android-29-arm64-v8a.tar.xz
+bin-sha: 6282912c5cf797226ccbf1532e4a05c59a4d090fe26ef4b0edbd38336363f12b

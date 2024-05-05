@@ -1,0 +1,5 @@
+summary: Colorized pattern-matching log tail utility
+webpage: https://taskwarrior.org/docs/clog/
+version: 1.3.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/clog-1.3.0-android-29-arm64-v8a.tar.xz
+bin-sha: 2b63991c60f91ac7aaecb5543df23e2f14551bfb584d8f2f7734143f78e0df6a

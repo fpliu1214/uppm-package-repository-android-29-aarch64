@@ -1,0 +1,5 @@
+summary: A simple hex viewer for the terminal
+webpage: https://github.com/sharkdp/hexyl
+version: 0.14.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/hexyl-0.14.0-android-29-arm64-v8a.tar.xz
+bin-sha: 21316e69ebdede5a8a3d8138b325c9094df6118a45fdab6b04e5145c0d592550

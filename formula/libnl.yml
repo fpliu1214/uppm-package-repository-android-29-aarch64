@@ -1,0 +1,5 @@
+summary: Netlink Library based Linux kernel interfaces
+webpage: https://github.com/thom311/libnl
+version: 3.9.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libnl-3.9.0-android-29-arm64-v8a.tar.xz
+bin-sha: c148bcada315535361fe62f018bdb5b614b557e1ce557d13529ad5a2fc6a61f3

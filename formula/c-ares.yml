@@ -1,0 +1,5 @@
+summary: Asynchronous DNS library
+webpage: https://c-ares.haxx.se
+version: 1.28.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/c-ares-1.28.1-android-29-arm64-v8a.tar.xz
+bin-sha: a75d3e7546ad2b3fae551bd061ee133a7db51caeb88dbf5c81000650ed2c27d5

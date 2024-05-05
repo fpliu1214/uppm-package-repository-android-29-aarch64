@@ -1,0 +1,5 @@
+summary: Ogg Bitstream Library
+webpage: https://www.xiph.org/ogg
+version: 1.3.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libogg-1.3.5-android-29-arm64-v8a.tar.xz
+bin-sha: f360802021f32d72ebe8eb8486a44d0b86cc5c4c734f1a6623c33ba59c971800

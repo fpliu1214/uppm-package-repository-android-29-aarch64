@@ -1,0 +1,5 @@
+summary: An embeddable Javascript engine with a focus on portability and compact footprint
+webpage: https://duktape.org/
+version: 2.7.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/duktape-2.7.0-android-29-arm64-v8a.tar.xz
+bin-sha: adedec3a9eb68686df20247961aff9328ecd9408eb27dd0620e8a3878d30b238

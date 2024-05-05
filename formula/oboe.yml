@@ -1,0 +1,5 @@
+summary: An easy-to-use, high-performance audio library for Android
+webpage: https://github.com/google/oboe
+version: 1.8.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/oboe-1.8.1-android-29-arm64-v8a.tar.xz
+bin-sha: 9983f8daf41744d4b2e9b4c68dca43b095e686e5f3774743dde6623a9fb4310b

@@ -1,0 +1,5 @@
+summary: Improved top (interactive process viewer)
+webpage: https://htop.dev
+version: 3.3.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/htop-3.3.0-android-29-arm64-v8a.tar.xz
+bin-sha: 1ef215e06a1926cde5ebd40b3da507a5a3486ee1ce4247756dd9fcbd3c050542

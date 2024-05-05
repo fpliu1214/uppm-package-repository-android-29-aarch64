@@ -1,0 +1,5 @@
+summary: A tool for building and running mobile apps written in Go
+webpage: https://github.com/golang/mobile
+version: 2024.05.05
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/gomobile-2024.05.05-android-29-arm64-v8a.tar.xz
+bin-sha: 05a20bfad868af2bb781588e7c187785306f675f2e2c9cc19464631e60e133ee

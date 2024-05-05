@@ -1,0 +1,5 @@
+summary: A command line XML parsing tool
+webpage: https://github.com/ericchiang/xpup
+version: 2024.05.05
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/xpup-2024.05.05-android-29-arm64-v8a.tar.xz
+bin-sha: b432d566e340ec7aa79b799ba2055515a8259b6a1fe4a98c6972f2d66ca3a5d0

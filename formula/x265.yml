@@ -1,0 +1,5 @@
+summary: An open-source H.265/HEVC encoder
+webpage: http://x265.org
+version: 3.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/x265-3.6-android-29-arm64-v8a.tar.xz
+bin-sha: 20e8abd5073339f2f46d0d7f054aefb614b071718efc5573f7f107b9ba2fc86b

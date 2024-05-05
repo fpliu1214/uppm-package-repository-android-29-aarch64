@@ -1,0 +1,5 @@
+summary: C/C++ and Java libraries for Unicode and globalization
+webpage: http://site.icu-project.org/home
+version: 74.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/icu4c-74.2-android-29-arm64-v8a.tar.xz
+bin-sha: 808657fa9256721f807c19a028b6ecff82e2e180a2d3e7daebd27a92ca717a2d

@@ -1,0 +1,5 @@
+summary: a command-line tool and C++ library that performs content-preserving transformations on PDF files
+webpage: https://github.com/qpdf/qpdf
+version: 11.9.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/qpdf-11.9.0-android-29-arm64-v8a.tar.xz
+bin-sha: 47aeaeb02367c05a6e5f54c0e130be1ed9236f8e0eca1f36b263fdacdfc36dbe

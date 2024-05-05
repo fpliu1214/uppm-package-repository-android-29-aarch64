@@ -1,0 +1,5 @@
+summary: C-style formatted output in C++
+webpage: https://www.gnu.org/software/gettext
+version: 0.22.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libasprintf-0.22.5-android-29-arm64-v8a.tar.xz
+bin-sha: 7f1db3421762d81565cb3a06ed92eb27260d4217956188cc79676f6b10c02d07

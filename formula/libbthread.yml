@@ -1,0 +1,5 @@
+summary: provide some missing posix threading functions for NDK
+webpage: https://github.com/tux-mind/libbthread
+version: 0.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libbthread-0.2-android-29-arm64-v8a.tar.xz
+bin-sha: ec858ecf2f5d9adec2df547e0b24cf62979b3214b3c635f3656d66f5af6d73eb

@@ -1,0 +1,5 @@
+summary: Compiler infrastructure and toolchain library for WebAssembly
+webpage: https://webassembly.org/
+version: 117
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/binaryen-117-android-29-arm64-v8a.tar.xz
+bin-sha: 83f5fd9251a8f9175d796edddf6633dbe3230a0866847f22364b27c23c458a26
