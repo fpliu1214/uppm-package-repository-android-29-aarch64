@@ -27,18 +27,39 @@ jobs:
           for item in $(/usr/bin/ndk-pkg ls-installed)
           do
               /usr/bin/ndk-pkg pack "$item" -o .
+
+              PACKAGE_SUMMARY="$(/usr/bin/ndk-pkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(/usr/bin/ndk-pkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(/usr/bin/ndk-pkg info-installed "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+              PACKAGE_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-${item%/*}.tar.xz"
+
+              PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
           done
 
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.pkg }}
-          path: '*.tar.xz'
+          path: |
+            '*.tar.xz'
+            '*.yml'
 
   build2:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [libmpc, libmpir, libnl, libnng, libobstack, libopenh264, libphonenumber, libpipeline, libpng++, libpsl, libpugixml, libqalculate, libqrencode, libquiche, libraqm, librasterlite, libraw, libre, libre2c, libressl, libsamplerate, libsigsegv, libsmi, libsndfile, libspectre, libspng, libsrtp, libtextstyle, libthai, libtinyxml2, libtorrent-rasterbar, libtwolame, libunwind, libupnp, libusrsctp, libvips, libwavpack, libwebm, libxcrypt, libxslt, libyuv, libz3, libzim, libzlog, libzmq, lief, lighttpd, livego, llhttp, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mcfly, md4c, mdbook, mediainfo, mimalloc, minisign, mm-wiki, mold, mosh, mozjpeg, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, ntbtls, numactl, nushell, oat++, obfs4proxy, oboe, openal-soft, opencolorio, opencv, openlibm, openmpi, openssl, openssl-fips, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pget, physfs, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proot2, protobuf, psimd, pup, putty, pybind11, q, qpdf, qrencode, quickjs, ragel, rang, rapidjson, rav1e, rclone, re2c, restic, resvg, ripgrep, ripgrep-all, rlwrap, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, sassc, scc, sd, shaderc, shc, shell2http, shellharden, shiori, silicon, simdjson, sjpeg, skcms, sl, soundtouch, spdlog, speex, sqlite3, starship, stwolame, stylua, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, taglib, tarlz, tbox, tcl, tcpdump, tdu, tealdeer, tectonic, tengo, tiff, tig, tlrc, tmux, tokei, toml++, toml11, tree, trietool, ttyd, ttygif, ttyrec, tweego, typos, uctags, unbound, unrar, uppm, usbmuxd, utf8.h, utfcpp, uthash, util-linux, valijson, vegeta, vim, virustotal-cli, wabt, wasm3, wasmtime, watchexec, wavpack, webhook, webp, wget, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlutils, xmlwf, xorriso, xpup, xsltproc, xxd, xz, yaml-cpp, yasm, youtubedr, yq, yyjson, zlib, zlib-ng, zola, zopfli, zoxide, zsh]
+        pkg: [libmpc, libmpir, libnl, libnng, libobstack, libopenh264, libphonenumber, libpipeline, libpng++, libpsl, libpugixml, libqalculate, libqrencode, libquiche, libraqm, librasterlite, libraw, libre, libre2c, libressl, libsamplerate, libsigsegv, libsmi, libsndfile, libspectre, libspng, libsrtp, libtextstyle, libthai, libtinyxml2, libtorrent-rasterbar, libtwolame, libunwind, libupnp, libusrsctp, libvips, libwavpack, libwebm, libxcrypt, libxslt, libyuv, libz3, libzim, libzlog, libzmq, lief, lighttpd, livego, llhttp, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mcfly, md4c, mdbook, mediainfo, mimalloc, minisign, mm-wiki, mold, mosh, mozjpeg, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, ntbtls, numactl, nushell, oat++, obfs4proxy, oboe, openal-soft, opencolorio, opencv, openlibm, openmpi, openssl, openssl-fips, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pget, physfs, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proot2, protobuf, psimd, pup, putty, pybind11, q, qpdf, qrencode, quickjs, ragel, rang, rapidjson, rav1e, rclone, re2c, restic, resvg, ripgrep, ripgrep-all, rlwrap, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, sassc, scc, sd, shaderc, shc, shell2http, shellharden, shiori, silicon, simdjson, sjpeg, skcms, sl, soundtouch, spdlog, speex, sqlite3, starship, stwolame, stylua, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, taglib, tarlz, tbox, tcl, tcpdump, tdu, tealdeer, tectonic, tengo, tiff, tig, tlrc, tmux, tokei, toml++, toml11, tree, trietool, ttyd, ttygif, ttyrec, tweego, typos, uctags, unbound, unrar, uppm, uppm@0.15.2, usbmuxd, utf8.h, utfcpp, uthash, util-linux, valijson, vegeta, vim, virustotal-cli, vulkan-headers, wabt, wasm3, wasmtime, watchexec, wavpack, webhook, webp, wget, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlutils, xmlwf, xorriso, xpup, xsltproc, xxd, xz, yaml-cpp, yasm, youtubedr, yq, yyjson, zlib, zlib-ng, zola, zopfli]
 
     runs-on: ubuntu-latest
 
@@ -56,18 +77,39 @@ jobs:
           for item in $(/usr/bin/ndk-pkg ls-installed)
           do
               /usr/bin/ndk-pkg pack "$item" -o .
+
+              PACKAGE_SUMMARY="$(/usr/bin/ndk-pkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(/usr/bin/ndk-pkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(/usr/bin/ndk-pkg info-installed "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+              PACKAGE_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-${item%/*}.tar.xz"
+
+              PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
           done
 
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.pkg }}
-          path: '*.tar.xz'
+          path: |
+            '*.tar.xz'
+            '*.yml'
 
   build3:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [zstd]
+        pkg: [zoxide, zsh, zstd]
 
     runs-on: ubuntu-latest
 
@@ -85,12 +127,33 @@ jobs:
           for item in $(/usr/bin/ndk-pkg ls-installed)
           do
               /usr/bin/ndk-pkg pack "$item" -o .
+
+              PACKAGE_SUMMARY="$(/usr/bin/ndk-pkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(/usr/bin/ndk-pkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(/usr/bin/ndk-pkg info-installed "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+              PACKAGE_FILENAME="$PACKAGE_NAME-$PACKAGE_VERSION-${item%/*}.tar.xz"
+
+              PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
           done
 
       - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.pkg }}
-          path: '*.tar.xz'
+          path: |
+            '*.tar.xz'
+            '*.yml'
 
   publish:
     needs: [build1, build2, build3]
