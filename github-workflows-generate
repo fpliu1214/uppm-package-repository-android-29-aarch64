@@ -26,6 +26,7 @@ echo "SED=$SED"
 PKGS="$(diff -U 0 a b | sed '/^--/d' | grep '^-' | $SED)"
 
 PKGS_COUNT="$(printf "$PKGS" | wc -l)"
+PKGS_COUNT="$(($PKGS_COUNT + 1))"
 
 echo "PKGS_COUNT=$PKGS_COUNT"
 
@@ -55,13 +56,16 @@ do
         ITEMS="$ITEMS, $item"
     fi
 
-    K=$(expr "$K" + 1)
+    K=$(($K + 1))
 
-    J=$(expr "$J" + 1)
+    J=$(($J + 1))
+
+    echo "J=$J"
+    echo "K=$K"
 
     if [ "$J" = 256 ] || [ "$K" = "$PKGS_COUNT" ] ; then
         J=0
-        I=$(expr "$I" + 1)
+        I=$(($I + 1))
 
         cat >> .github/workflows/publish.yml <<EOF
 
@@ -79,7 +83,17 @@ do
       - run: /usr/bin/ndk-pkg env
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
-      - run: /usr/bin/ndk-pkg install android-29-arm64-v8a/\${{ matrix.pkg }}
+
+      - name: build
+        run: |
+          case \${{ matrix.pkg }} in
+            cmake)
+              /usr/bin/ndk-pkg install android-29-arm64-v8a/\${{ matrix.pkg }} --fsle
+              ;;
+            *)
+              /usr/bin/ndk-pkg install android-29-arm64-v8a/\${{ matrix.pkg }}
+              ;;
+          esac
 
       - name: pack
         run: |
