@@ -1,5 +1,5 @@
 summary: Cross-platform, multi-format archive utility
 webpage: https://github.com/mholt/archiver
 version: 3.5.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/archiver-3.5.1-android-29-arm64-v8a.tar.xz
-bin-sha: 2defbc73ec04450c77c190fe1000edf8915eb07a37c88207356a3132397f38fb
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/archiver-3.5.1-android-29-arm64-v8a.tar.xz
+bin-sha: f8078847d7a55038dcae3ba02227296476e03d5a5eca555f4fbbad0f35c2a42a

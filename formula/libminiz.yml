@@ -1,5 +1,5 @@
 summary: implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards
 webpage: https://github.com/richgel999/miniz
 version: 2.2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libminiz-2.2.0-android-29-arm64-v8a.tar.xz
-bin-sha: d9395ab2c2c7482e81db98bd5c78679d77c6f4fb94b15b7e523eed316547cb99
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libminiz-2.2.0-android-29-arm64-v8a.tar.xz
+bin-sha: abd7aec1907201248b98bd431ec04b9d27e2205e4d2959b00280516ddc868c85

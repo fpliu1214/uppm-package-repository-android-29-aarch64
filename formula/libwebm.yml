@@ -1,5 +1,5 @@
 summary: WebM container
 webpage: https://www.webmproject.org/
 version: 1.0.0.31
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libwebm-1.0.0.31-android-29-arm64-v8a.tar.xz
-bin-sha: 9423dda6fb5f864da496b6676dec47deadc3b8b241a682bb3aca4e2238012852
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libwebm-1.0.0.31-android-29-arm64-v8a.tar.xz
+bin-sha: 41584047201d8b121210faf4b830211d1d0fb46b1393cef820ca91f77fe7f5fc

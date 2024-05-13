@@ -1,5 +1,5 @@
 summary: Implementation of the DNS protocols
 webpage: https://www.isc.org/downloads/bind
 version: 9.18.26
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/bind-9.18.26-android-29-arm64-v8a.tar.xz
-bin-sha: 6e597739f5f91522ac2cc81439db1cc3dd61750f05f0c0508498123f26b1ab4e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/bind-9.18.26-android-29-arm64-v8a.tar.xz
+bin-sha: 7dc29e6dcc7028dc01acd06ecd148ad9d55203ce274de5b1596ede831934a5ed

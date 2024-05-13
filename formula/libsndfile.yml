@@ -1,5 +1,5 @@
 summary: C library for files containing sampled sound
 webpage: http://libsndfile.github.io/libsndfile/
 version: 1.2.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libsndfile-1.2.2-android-29-arm64-v8a.tar.xz
-bin-sha: 7c8efd738d1dccae2a6e5dc50cc1a4ccc121e3c48ba167b0cfec9d61e5597111
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libsndfile-1.2.2-android-29-arm64-v8a.tar.xz
+bin-sha: dd473b502386ca5d7a3cfd21a185b240e53b79603aa0aa47ea51d95f9033a1eb

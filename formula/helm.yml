@@ -1,5 +1,5 @@
 summary: Kubernetes package manager
 webpage: https://helm.sh/
 version: 3.14.4
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/helm-3.14.4-android-29-arm64-v8a.tar.xz
-bin-sha: 90d6a5f324e98546e786e9fe167a22bfb8deb0ae9a879aa26db457e201ae74e3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/helm-3.14.4-android-29-arm64-v8a.tar.xz
+bin-sha: 75d238b3914d2f21206033c34fdb6592866b94f86017c572c8961f679945cec0

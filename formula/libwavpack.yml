@@ -1,5 +1,5 @@
 summary: Hybrid lossless audio compression
 webpage: https://www.wavpack.com/
 version: 5.7.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libwavpack-5.7.0-android-29-arm64-v8a.tar.xz
-bin-sha: 97a781e4ae7b1b403e5208f362c86b3f7c4b1a1aa2667e1519ceea5df6a9a5fd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libwavpack-5.7.0-android-29-arm64-v8a.tar.xz
+bin-sha: 686e337f2b05f70115eb812e721ada8253d867f8f875546ee31495de89cb46ce

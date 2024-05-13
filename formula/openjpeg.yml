@@ -1,5 +1,5 @@
 summary: Library for JPEG-2000 image manipulation
 webpage: https://www.openjpeg.org/
 version: 2.5.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/openjpeg-2.5.2-android-29-arm64-v8a.tar.xz
-bin-sha: 1f38e8720cc67d7391eb732321b695de4469e06ac8595ae7033011ea2e9e71dc
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/openjpeg-2.5.2-android-29-arm64-v8a.tar.xz
+bin-sha: c2f072f276fe7408ce8e665159ec309b31e3c9028ee91f58b55072f96bfa7f08

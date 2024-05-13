@@ -1,0 +1,5 @@
+summary: CPU INFOrmation library
+webpage: https://github.com/pytorch/cpuinfo
+version: 2024.05.13
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libcpuinfo-2024.05.13-android-29-arm64-v8a.tar.xz
+bin-sha: 0ec26326562566a83ab5beb774905d924fcbbde84d67cb482215ec6ea74d30c4

@@ -1,5 +1,5 @@
 summary: Extremely fast non-cryptographic hash algorithm
 webpage: https://github.com/Cyan4973/xxHash
 version: 0.8.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/xxhash-0.8.2-android-29-arm64-v8a.tar.xz
-bin-sha: 3788a1b4951d879f5ee90c6f59bdd61204e7be8a39fecf5f035d546101db8b36
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/xxhash-0.8.2-android-29-arm64-v8a.tar.xz
+bin-sha: 66d2fca4f73551be507e92d390a7c65fa9b9c35098661b1024843e231ad2aaa6

@@ -1,5 +1,5 @@
 summary: A command-line tool for downloading APK files from various sources
 webpage: https://github.com/EFForg/apkeep
 version: 0.8.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/apkeep-0.8.0-android-29-arm64-v8a.tar.xz
-bin-sha: 55b214cba9bea61216be03444ee0d9463211f60b58ab1eb774b98a736345a4a9
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/apkeep-0.8.0-android-29-arm64-v8a.tar.xz
+bin-sha: ea4d11ba6e2bcf82e34b9e1ae008417279e7289c101a7c71805aa88a4bfbea9e

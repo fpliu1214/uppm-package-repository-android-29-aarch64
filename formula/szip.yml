@@ -1,5 +1,5 @@
 summary: Implementation of extended-Rice lossless compression algorithm
 webpage: https://support.hdfgroup.org/HDF5/release/obtain5.html#extlibs
 version: 2.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/szip-2.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: ff1205502f9bf08bfa98ec3848d0c1c94ac620619cd86a410b61d59ef0c5e79b
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/szip-2.1.1-android-29-arm64-v8a.tar.xz
+bin-sha: ecf6437a2e73c183c51d843673e9dd6790b701cbd75c152d7869f9604ff9dc15

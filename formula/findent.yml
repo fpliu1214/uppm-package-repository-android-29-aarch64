@@ -1,5 +1,5 @@
 summary: Indent and beautify Fortran sources and generate dependency information
 webpage: https://www.ratrabbit.nl/ratrabbit/findent/index.html
 version: 4.3.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/findent-4.3.2-android-29-arm64-v8a.tar.xz
-bin-sha: df9040ff77e6a4ffc2ff2ef15e897de1f04a8e6ef94f41b9d48b4a19e06791b6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/findent-4.3.2-android-29-arm64-v8a.tar.xz
+bin-sha: 6a64bedc66303b68fc9560e4047d7493bec6bbaeae2319b239944b7beb165015

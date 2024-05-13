@@ -1,5 +1,5 @@
 summary: A library for complex text layout
 webpage: https://github.com/HOST-Oman/libraqm
 version: 0.10.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libraqm-0.10.1-android-29-arm64-v8a.tar.xz
-bin-sha: a8dbff17213e81ca65d0ddc1477628b8c6b52b10f506cf3b812ee6d11d88058d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libraqm-0.10.1-android-29-arm64-v8a.tar.xz
+bin-sha: 89837921910ca104dc7df3201da963ad5fa9587f702d967378947f5d0845772d

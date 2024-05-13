@@ -1,5 +1,5 @@
 summary: A collection of tools for glib
 webpage: https://developer.gnome.org/glib
 version: 2.80.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/glib-tools-2.80.0-android-29-arm64-v8a.tar.xz
-bin-sha: 24fe6b23e6552fc1648fdbd4dd8e8fcc88f11f9e348ee5671c4023aae07275fd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/glib-tools-2.80.0-android-29-arm64-v8a.tar.xz
+bin-sha: f008040f2de45015a6048a5550d9fae984339cd30aba18553b13ed86e60fe889

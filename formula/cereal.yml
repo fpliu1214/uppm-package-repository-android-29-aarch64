@@ -1,5 +1,5 @@
 summary: C++11 library for serialization
 webpage: https://uscilab.github.io/cereal/
 version: 1.3.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/cereal-1.3.2-android-aarch64.tar.xz
-bin-sha: cddf28581bc581d8df020c93786f19fa03941def8c824d3794088258aa7638a7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/cereal-1.3.2-android-aarch64.tar.xz
+bin-sha: c682563925ae11b5d13982d59ddf52b249d585806e620c67ac9762180f9210bc

@@ -1,5 +1,5 @@
 summary: Library for JSON, based on GLib
 webpage: https://wiki.gnome.org/Projects/JsonGlib
 version: 1.8.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/json-glib-1.8.0-android-29-arm64-v8a.tar.xz
-bin-sha: 6c020482f4dcb7885e99d2bafea73d067ee9e2b72d9419ecbf4b87b9c8082035
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/json-glib-1.8.0-android-29-arm64-v8a.tar.xz
+bin-sha: 89047d592ca1808e741bb4a62afc63c86fa01c019c6a833d8e5c44595d161c1f

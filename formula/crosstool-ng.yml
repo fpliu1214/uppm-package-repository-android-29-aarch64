@@ -1,5 +1,5 @@
 summary: A toolchain generator
 webpage: https://crosstool-ng.github.io
 version: 1.26.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/crosstool-ng-1.26.0-android-aarch64.tar.xz
-bin-sha: 5af897a6766569cc55dbd07703f0cdbcbd5d0746f8922b644e6647f606dcce70
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/crosstool-ng-1.26.0-android-aarch64.tar.xz
+bin-sha: c57aa6b163a48ec476ae87f1b03950315cc4a26d45d7ae082c7f07960362f376

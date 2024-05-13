@@ -1,5 +1,5 @@
 summary: Official tldr client written in Rust
 webpage: https://github.com/tldr-pages/tlrc
 version: 1.9.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/tlrc-1.9.1-android-29-arm64-v8a.tar.xz
-bin-sha: bd844ac179a5ff41691b1256c5d6c1e219c0162a708ebe1a1e1e481b248c7607
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/tlrc-1.9.1-android-29-arm64-v8a.tar.xz
+bin-sha: e997752a21f69c2b9d9a8e300a168d3bbbf446f4d23bdbbb23ad2ae4f7c90274

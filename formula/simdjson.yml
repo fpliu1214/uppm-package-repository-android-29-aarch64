@@ -1,5 +1,5 @@
 summary: SIMD-accelerated C++ JSON parser
 webpage: https://simdjson.org
 version: 3.9.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/simdjson-3.9.1-android-29-arm64-v8a.tar.xz
-bin-sha: a887cf7982c7a5a47cae0d4db927b63e7e6eb8f33ebc9a0254ca69d511c6e3af
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/simdjson-3.9.1-android-29-arm64-v8a.tar.xz
+bin-sha: 71b70dfd4d98207c64a697a9e73402308267a7709a578e6ff14958f204883d66

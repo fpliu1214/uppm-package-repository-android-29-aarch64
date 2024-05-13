@@ -1,5 +1,5 @@
 summary: Open video compression format
 webpage: https://www.theora.org
 version: 1.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libtheora-1.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: c31d2e721fccd404d57113b4781f7b0ee6b7425e5b8d0f7ebb16175c3388165e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libtheora-1.1.1-android-29-arm64-v8a.tar.xz
+bin-sha: f2f7afbc1bf160c3c6528906a8514c93d1654dac2cf948cf3f44d6c36fb362f2

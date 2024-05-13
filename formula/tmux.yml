@@ -1,5 +1,5 @@
 summary: Terminal multiplexer
 webpage: https://tmux.github.io
 version: 3.4
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/tmux-3.4-android-29-arm64-v8a.tar.xz
-bin-sha: 73d83109511b133f16e292ddf8ee58f665a13684c963361d2db7fcc1e1e74bfb
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/tmux-3.4-android-29-arm64-v8a.tar.xz
+bin-sha: 1538c2946213d9d54279922ab74f7813203658f7e048058a9344c222f52300ed

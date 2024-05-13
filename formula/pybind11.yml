@@ -1,5 +1,5 @@
 summary: Seamless operability between C++11 and Python
 webpage: https://github.com/pybind/pybind11
 version: 2.12.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/pybind11-2.12.0-android-aarch64.tar.xz
-bin-sha: 96bd4286f8b36d31d42178825933f0d08dc2e5ffa68e0d1997f59e6abe28a479
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/pybind11-2.12.0-android-aarch64.tar.xz
+bin-sha: 99041bc45160d6e7b5a92ac01cb69fb46a8658caecd99a1dd5c42ac944d3a61f

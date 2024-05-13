@@ -1,5 +1,5 @@
 summary: Library and tools for dealing with GeoTIFF
 webpage: https://github.com/OSGeo/libgeotiff
 version: 1.7.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libgeotiff-1.7.1-android-29-arm64-v8a.tar.xz
-bin-sha: 0ab60ac3fa370415d161d22db81742d21e9e6fb23075aa9d5beb37e286555d6f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libgeotiff-1.7.1-android-29-arm64-v8a.tar.xz
+bin-sha: fc7af99a912b80fac8cf98b77177b5e741a3d439056e7c1f6407a8d248df9bdf

@@ -1,0 +1,5 @@
+summary: Utility to check whether MAC addresses are already taken on a LAN
+webpage: https://github.com/ThomasHabets/arping
+version: 2.24
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/arping-2.24-android-aarch64.tar.xz
+bin-sha: 41b2f6411fe9d7cfd1724ca982d07378fd58ce7af96e46b090f5d689719d7513

@@ -1,5 +1,5 @@
 summary: Filesystem monitor with fanotify and inotify backends
 webpage: https://github.com/nowsecure/fsmon
 version: 1.8.4
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/fsmon-1.8.4-android-29-arm64-v8a.tar.xz
-bin-sha: 242bb317145e3c6ed6d7dea4bdf28339b794d28c7e23b29530424c07e309c53e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/fsmon-1.8.4-android-29-arm64-v8a.tar.xz
+bin-sha: 8d1dfa20cf2dd676b99a2feb42b15d1bfef7622290c21f17afda7fe59157555d

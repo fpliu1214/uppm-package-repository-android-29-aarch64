@@ -1,5 +1,5 @@
 summary: GNU grep, egrep and fgrep
 webpage: https://www.gnu.org/software/grep
 version: 3.11
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/grep-3.11-android-29-arm64-v8a.tar.xz
-bin-sha: d78993308b84591f3f61b82ac8ace1e49ab612773014e2df256e531aed22d2b2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/grep-3.11-android-29-arm64-v8a.tar.xz
+bin-sha: 165a03adebf642f80940333a12ac9fd29eda80d3d14ec1be5e3a2c3de1df7e2d

@@ -1,5 +1,5 @@
 summary: JSON for modern C++
 webpage: https://github.com/nlohmann/json
 version: 3.11.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/nlohmann-json-3.11.3-android-aarch64.tar.xz
-bin-sha: dd8167595ba7e68e779253d254b0a2c708e4f8c4b3987d8afe216aba677fa360
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/nlohmann-json-3.11.3-android-aarch64.tar.xz
+bin-sha: 63bae6b18233e468794cac3ca9225ff0d9e0d165252598225ca759c8b3ae5c53

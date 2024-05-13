@@ -1,5 +1,5 @@
 summary: Standalone library of the Fraunhofer FDK AAC code from Android
 webpage: https://sourceforge.net/projects/opencore-amr
 version: 2.0.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/fdk-aac-2.0.3-android-29-arm64-v8a.tar.xz
-bin-sha: 10f45d06ec16d323353bb8f36b24004b5641ccb5195b2b9c5781b19e4edcb32e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/fdk-aac-2.0.3-android-29-arm64-v8a.tar.xz
+bin-sha: c014f652889857b78443a6f63fe08bc980dc0ecc529862bfb39ab687ee86a15a

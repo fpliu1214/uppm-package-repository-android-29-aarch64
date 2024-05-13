@@ -1,0 +1,5 @@
+summary: Powerful, lightweight programming language
+webpage: https://www.lua.org/
+version: 5.4.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/liblua-5.4.6-android-29-arm64-v8a.tar.xz
+bin-sha: 26075821aaca7ced3f8c400e1f9785afef38e75f453f494408ac47c5eda57de8

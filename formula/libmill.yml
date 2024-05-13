@@ -1,5 +1,5 @@
 summary: Go-style concurrency in C
 webpage: https://github.com/sustrik/libmill
-version: 2024.05.05
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libmill-2024.05.05-android-29-arm64-v8a.tar.xz
-bin-sha: 7a26d50bc156605b2e17f9945e287cb538faf09d80383c92ce64f44b4fc01a21
+version: 2024.05.13
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libmill-2024.05.13-android-29-arm64-v8a.tar.xz
+bin-sha: e5a2bc85e4bfa820b8969628ec0af36937416cfdc95798afc8df9ba4f91f4fb8

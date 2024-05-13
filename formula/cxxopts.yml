@@ -1,5 +1,5 @@
 summary: A lightweight C++ command-line option parser
 webpage: https://github.com/jarro2783/cxxopts
 version: 3.2.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/cxxopts-3.2.1-android-aarch64.tar.xz
-bin-sha: e561cdc529c6f98733d19fb9949490088db5033f9849a88f0f88197068160e8d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/cxxopts-3.2.1-android-aarch64.tar.xz
+bin-sha: 12a852f9c0391cf51ea779c37b52918215fca384d64710bff07a5192bfaf4e12

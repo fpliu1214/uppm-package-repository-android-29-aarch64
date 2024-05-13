@@ -1,5 +1,5 @@
 summary: Banner-like program prints strings as ASCII art
 webpage: http://www.figlet.org/
 version: 2.2.5
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/figlet-2.2.5-android-29-arm64-v8a.tar.xz
-bin-sha: cdb2727b8df69ce768790dde66e54bec1fdf31de543b282f0a77c5b295a003e4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/figlet-2.2.5-android-29-arm64-v8a.tar.xz
+bin-sha: 9034978fb4d80fc53941f49261b9976ec50bd4985bcaac4c1ac8bc65fa573db2

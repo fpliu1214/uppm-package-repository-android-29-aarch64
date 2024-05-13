@@ -1,5 +1,5 @@
 summary: A flexible, lightweight pure C library for implementing modern network protocols easily with a tiny footprint, using a nonblocking event loop.
 webpage: https://libwebsockets.org
 version: 4.3.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libwebsockets-4.3.3-android-29-arm64-v8a.tar.xz
-bin-sha: 4acf4853fb2572e2e38325a13764fa2062687de81ffdb1c64c57894feb38d753
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libwebsockets-4.3.3-android-29-arm64-v8a.tar.xz
+bin-sha: 302de2c6d9a788a8d3264ae9061cc602735ea62a426bcf619ab7a49215b9fcb2

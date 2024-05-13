@@ -1,5 +1,5 @@
 summary: library provides message digest functions found on BSD systems
 webpage: https://www.hadrons.org/software/libmd
 version: 1.1.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libmd-1.1.0-android-29-arm64-v8a.tar.xz
-bin-sha: bb0a67315963f4a309fb53cb0053b85714ac3fcfb742be51c3a3a3e7eb1da0d1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libmd-1.1.0-android-29-arm64-v8a.tar.xz
+bin-sha: b6efc72e90645777f6b990dacfb627bc52953ebf25ae7e5785889798171ea7aa

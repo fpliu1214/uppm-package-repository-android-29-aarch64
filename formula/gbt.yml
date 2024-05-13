@@ -1,5 +1,5 @@
 summary: Highly configurable prompt builder for Bash and ZSH written in Go
 webpage: https://github.com/jtyr/gbt
 version: 2.0.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/gbt-2.0.0-android-29-arm64-v8a.tar.xz
-bin-sha: 288fe8f92909de23fca492c1663029c3ce69cbf19647d07f8b8f72ac8d9ff82f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/gbt-2.0.0-android-29-arm64-v8a.tar.xz
+bin-sha: 17e6a84b418a6abb5999a66eab613548bd93828784e1a5349a019667716487bd

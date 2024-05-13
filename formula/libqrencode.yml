@@ -1,5 +1,5 @@
 summary: A fast and compact QR Code encoding library
 webpage: https://fukuchi.org/works/qrencode
 version: 4.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libqrencode-4.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: 76ed6f7b317eb728c5eb3565bc94695746cd6e0073cf6c9ac9e7230e5a226206
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libqrencode-4.1.1-android-29-arm64-v8a.tar.xz
+bin-sha: 6f4d11fc1c6bd90466938ecdbb95967a2dc81be7d269c36c21fb5f09391c1320

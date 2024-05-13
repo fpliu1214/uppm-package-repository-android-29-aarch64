@@ -1,5 +1,5 @@
 summary: Heavily optimized DEFLATE/zlib/gzip compression and decompression
 webpage: https://github.com/ebiggers/libdeflate
 version: 1.20
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libdeflate-1.20-android-29-arm64-v8a.tar.xz
-bin-sha: 6099d2a9f4f419022be0907a69b559e503e74db20e68bc4acba90b95bd19e218
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libdeflate-1.20-android-29-arm64-v8a.tar.xz
+bin-sha: f9d9d9e4ccae8bc6616db3e6f46423f99cb0623b4830a53fe7ea2172c508eca5

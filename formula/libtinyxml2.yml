@@ -1,5 +1,5 @@
 summary: A simple, small, efficient, C++ XML parser library
 webpage: http://grinninglizard.com/tinyxml2
 version: 10.0.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libtinyxml2-10.0.0-android-29-arm64-v8a.tar.xz
-bin-sha: a4f149cef46a7dd4284e0b54649f6755d48cfe9248f915d9542411a1a746e9ae
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libtinyxml2-10.0.0-android-29-arm64-v8a.tar.xz
+bin-sha: 51c4d0c2b813354e0b23dad0358b307252d2321cb2a7c3dc26e4cb6c363f71e1

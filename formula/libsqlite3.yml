@@ -1,5 +1,5 @@
 summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
 webpage: https://www.sqlite.org/
 version: 3.45.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libsqlite3-3.45.3-android-29-arm64-v8a.tar.xz
-bin-sha: fb303c4f94a162d040b52cc43847b474a6abd4df96ba4faef972fcc58828bc93
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libsqlite3-3.45.3-android-29-arm64-v8a.tar.xz
+bin-sha: 6451dd22301b62f8d2ebb4d0ee5320093fdae1ebf929b5417aef3cdcee9c85c5

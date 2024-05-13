@@ -1,5 +1,5 @@
 summary: get number of bytes in a character
 webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/mblen.html
 version: 1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/libmblen-1-android-29-arm64-v8a.tar.xz
-bin-sha: 0764ad17e098e70b37f51edcded66adfa862df7b076d2916ea188326d2edd943
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libmblen-1-android-29-arm64-v8a.tar.xz
+bin-sha: cc9853eb9fb9e65a7b39fe5ec2749cd890b8ee2efe90d1d9d8ff1464b4f005f5

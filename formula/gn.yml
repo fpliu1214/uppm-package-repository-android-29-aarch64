@@ -1,5 +1,5 @@
 summary: A meta-build system for generating build files for ninja
 webpage: https://gn.googlesource.com/gn
-version: 2024.05.05
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/gn-2024.05.05-android-29-arm64-v8a.tar.xz
-bin-sha: 3f2562d5cc472054df7e0354fa0328a7e0e3c348cc10b6e163766182614d231d
+version: 2024.05.13
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/gn-2024.05.13-android-29-arm64-v8a.tar.xz
+bin-sha: 89c89d2720673a488cf40b50168abb5998c6ffdbc4525e3e4ea5a410eace5b5f

@@ -1,5 +1,5 @@
 summary: Interactive cheatsheet tool for the command-line
 webpage: https://github.com/denisidoro/navi
 version: 2.23.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/navi-2.23.0-android-29-arm64-v8a.tar.xz
-bin-sha: e2415794334059850fcfd3643ba73ec40f3515cabf21afe8fd7390f6f0aa157f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/navi-2.23.0-android-29-arm64-v8a.tar.xz
+bin-sha: 932b7f8eae85feba03db670c4a8006a97604aa4844ca8c92f35073a3ea06b640

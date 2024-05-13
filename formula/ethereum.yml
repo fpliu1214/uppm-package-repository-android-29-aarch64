@@ -1,5 +1,5 @@
 summary: Go implementation of the Ethereum protocol
 webpage: https://geth.ethereum.org/
 version: 1.13.14
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/ethereum-1.13.14-android-29-arm64-v8a.tar.xz
-bin-sha: 0da05c3f4a44455c0394b2f2cbbd52578e77c286a34ce71ef8e94e72c350890d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/ethereum-1.13.14-android-29-arm64-v8a.tar.xz
+bin-sha: da1d4f90824b207ac9911f0142b5cf4937df19954e915179bb0b359f62585943

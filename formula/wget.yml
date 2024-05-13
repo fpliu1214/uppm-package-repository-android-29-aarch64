@@ -1,5 +1,5 @@
 summary: A free, open-source, command-line tool that is used to download files from web servers using HTTP, HTTPS, FTP protocols
 webpage: https://www.gnu.org/software/wget
 version: 1.24.5
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.05/wget-1.24.5-android-29-arm64-v8a.tar.xz
-bin-sha: 611d957b2efdb74c4c85d45b83a004929c523d321edf45de8a7cb23cc1d80b64
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/wget-1.24.5-android-29-arm64-v8a.tar.xz
+bin-sha: eec02d774eccfcfd8d30b6acb7af6e69678911cc8a1c7027b9e209bcc2875c7e
