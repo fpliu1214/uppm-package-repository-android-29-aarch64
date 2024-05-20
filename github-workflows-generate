@@ -16,7 +16,7 @@ sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
 SED="sed -e s|^-||"
 
-for item in d8 v8 skia pdfium webrtc tensorflow-lite librsvg libint dash
+for item in d8 v8 skia pdfium webrtc tensorflow-lite libvips librsvg libint dash
 do
     SED="$SED -e /^$item$/d"
 done
