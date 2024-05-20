@@ -1,5 +1,5 @@
 summary: C++ Common Libraries
 webpage: https://abseil.io
 version: 20240116.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/abseil-20240116.2-android-29-arm64-v8a.tar.xz
-bin-sha: 1f3f004450526789e93cdaef4e77888127d57418c1d9036365eaf1039e6b26e2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/abseil-20240116.2-android-29-arm64-v8a.tar.xz
+bin-sha: 5e0a0d4749c578b08f5993e1fdcc2a525561d13285eef8072a102563d582a3b2

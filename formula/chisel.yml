@@ -1,5 +1,5 @@
 summary: A fast TCP/UDP tunnel over HTTP
 webpage: https://github.com/jpillora/chisel
 version: 1.9.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/chisel-1.9.1-android-29-arm64-v8a.tar.xz
-bin-sha: d9f110026e5ab29d71b1d909be8a951e3fd7c36d5a7e9426177f9cd1cc59911f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/chisel-1.9.1-android-29-arm64-v8a.tar.xz
+bin-sha: 7b99082da1f452a6cadee42ac31f187afcf9020859ac78d3b8768546ad039c6f

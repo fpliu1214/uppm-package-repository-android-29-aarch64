@@ -1,5 +1,5 @@
 summary: glob(3) implementation
 webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/glob.html
-version: 2024.05.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libglob-2024.05.13-android-29-arm64-v8a.tar.xz
-bin-sha: dd7f217115ef14c64ad4fcacd9cfd5c470b3f98f2677a3141466db34097028b9
+version: 2024.05.20
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libglob-2024.05.20-android-29-arm64-v8a.tar.xz
+bin-sha: 719fa91e5afcfd274b04d1fd36e24028b7c3a7ca70d8018de3261644c1e25155

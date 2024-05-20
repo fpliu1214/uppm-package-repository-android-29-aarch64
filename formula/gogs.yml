@@ -1,5 +1,5 @@
 summary: Go git service
 webpage: https://gogs.io
 version: 0.13.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/gogs-0.13.0-android-29-arm64-v8a.tar.xz
-bin-sha: fb11b31f4ba5e337039e899e23a314d03c494f8bc5bc0cd623a76c93cbf5fc60
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/gogs-0.13.0-android-29-arm64-v8a.tar.xz
+bin-sha: d55b42f11a276d90276a28d3a7d12f49afce5e050e216f4bd2353dad7cf5361f

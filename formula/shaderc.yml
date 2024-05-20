@@ -1,5 +1,5 @@
 summary: A collection of tools, libraries, and tests for Vulkan shader compilation
 webpage: https://github.com/google/shaderc
 version: 2024.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/shaderc-2024.0-android-29-arm64-v8a.tar.xz
-bin-sha: cad2885d1b4b5adf629e8a16b1ebc1bd3d3e76db1ebceaa4a0700cca6929d900
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/shaderc-2024.0-android-29-arm64-v8a.tar.xz
+bin-sha: b0c6ed6fe28fce38914dd717f1a0ea2df1a27861eaf78e2e3b87181508589786

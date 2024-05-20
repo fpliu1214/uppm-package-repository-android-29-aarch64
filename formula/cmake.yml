@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
-version: 3.29.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/cmake-3.29.2-android-aarch64.tar.xz
-bin-sha: 13e1e987b97d9e985d985b02f01022ab4818b39d789f8f4effdb12218574195b
+version: 3.29.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cmake-3.29.3-android-aarch64.tar.xz
+bin-sha: 5631c775724c57e26aa191abe4908bb00686312f6b434ad787ef472be74742ca

@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
 version: 2.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/pkgconf-2.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: 92705843f6a6e6ace4af5d45bcf7ab3bcd0a124a6f7170f4baf8652f42fe829c
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/pkgconf-2.1.1-android-29-arm64-v8a.tar.xz
+bin-sha: 054ba5d0287b49850fce0298bba6697add6294204527bc822451d04fb7ecbdfc

@@ -1,5 +1,5 @@
 summary: C library for the Public Suffix List
 webpage: https://rockdaboot.github.io/libpsl
 version: 0.21.5
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libpsl-0.21.5-android-29-arm64-v8a.tar.xz
-bin-sha: cc082384f7837966d0c525cfe2feb0888aea9bbc83a1349ab1ca2d248b255cf9
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libpsl-0.21.5-android-29-arm64-v8a.tar.xz
+bin-sha: 7f2f148c6f8f8fa0cb590ca6dfc6fa3a7d74c8839607c93b10609c41069db89f

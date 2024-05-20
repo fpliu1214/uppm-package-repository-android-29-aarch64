@@ -1,5 +1,5 @@
 summary: New way to see and navigate directory trees
 webpage: https://dystroy.org/broot/
-version: 1.37.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/broot-1.37.0-android-29-arm64-v8a.tar.xz
-bin-sha: e5994e8bbcf9b908652c595449118f4d11f8789d8ad2fa365c9713b539f92cb5
+version: 1.38.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/broot-1.38.0-android-29-arm64-v8a.tar.xz
+bin-sha: e08d9c63d0517eb13d388524079e49dea5221f6a90736194d8ced1cd23f1c630

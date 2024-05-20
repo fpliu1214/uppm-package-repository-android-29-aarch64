@@ -1,5 +1,5 @@
 summary: (Arguably) the best yacc variant
 webpage: https://invisible-island.net/byacc/
 version: 20240109
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/byacc-20240109-android-29-arm64-v8a.tar.xz
-bin-sha: 44ca4fc17bde0bc8ab13eef1b7b18bc985a5a8d6cb5059ee4697e2301ecce886
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/byacc-20240109-android-29-arm64-v8a.tar.xz
+bin-sha: 1262fbd51ef044528537418aac5a4ecc99394470da9b166ccbc0c63eda9b2f8e

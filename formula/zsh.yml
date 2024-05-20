@@ -1,5 +1,5 @@
 summary: Z Shell
 webpage: https://www.zsh.org
 version: 5.9
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/zsh-5.9-android-29-arm64-v8a.tar.xz
-bin-sha: 7434bf21cde2c56b791ed7fce5c3e492204c2630189926a5fe618ae495a399ef
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/zsh-5.9-android-29-arm64-v8a.tar.xz
+bin-sha: f932cf05b094c7e524c3f04caa036749e593cae1895795140d1b80c48a60609c

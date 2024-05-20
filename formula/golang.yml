@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
 webpage: https://go.dev/
 version: 1.22.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/golang-1.22.2-android-29-arm64-v8a.tar.xz
-bin-sha: aad4cce3ed863ad159bd692c3a0a096a5432c209f98b41407f70db29c65bdae7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/golang-1.22.2-android-29-arm64-v8a.tar.xz
+bin-sha: 419f7de4d8f477ce9c077a0ca241b750adf88e129ac13c5d94b27045e04d7ed8

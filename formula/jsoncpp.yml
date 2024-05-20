@@ -1,5 +1,5 @@
 summary: A C++ library for interacting with JSON
 webpage: https://github.com/open-source-parsers/jsoncpp
 version: 1.9.5
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/jsoncpp-1.9.5-android-29-arm64-v8a.tar.xz
-bin-sha: 78ddeedabfb94799775b2de3aaf19e2b47df0106319a2f8bfba829e46741a54a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/jsoncpp-1.9.5-android-34-arm64-v8a.tar.xz
+bin-sha: 4d4a4b308d6ff4514277d2cea04d869ebc281ba0067245ee96a0be3aa8e7f06a

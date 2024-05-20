@@ -1,5 +1,5 @@
 summary: A C library for reading and writing PNG format files with a focus on security and ease of use.
 webpage: https://libspng.org/
 version: 0.7.4
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libspng-0.7.4-android-29-arm64-v8a.tar.xz
-bin-sha: 789ec52c0df09ce1537ed9adbe49aa2bf466fbf4d39af4a120890156aa583b03
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libspng-0.7.4-android-29-arm64-v8a.tar.xz
+bin-sha: 927592bb4a20c5c5c20381f11108c3104d1884e628e13ada5ffefa28e64dce40

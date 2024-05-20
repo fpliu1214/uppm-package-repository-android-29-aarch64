@@ -1,5 +1,5 @@
 summary: Open source xHE-AAC encoder
 webpage: https://gitlab.com/ecodis/exhale
 version: 1.1.9
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libexhale-1.1.9-android-29-arm64-v8a.tar.xz
-bin-sha: 1d60acf13696496719722d4210674de79fd6191494e59dabbf1be3108e7a59b6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libexhale-1.1.9-android-29-arm64-v8a.tar.xz
+bin-sha: 42a24e07fadc4400baa6e86a6ef8068e2da9e672411030aaab861d71f060d4e4

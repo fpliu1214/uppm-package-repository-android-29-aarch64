@@ -1,5 +1,5 @@
 summary: Open Source H.264 Codec
 webpage: https://github.com/cisco/openh264
 version: 2.4.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libopenh264-2.4.1-android-29-arm64-v8a.tar.xz
-bin-sha: 890db3335a4459bf20c638330b8b2dc7960ea7164feb2ecc681becd8c6ed5f1f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libopenh264-2.4.1-android-29-arm64-v8a.tar.xz
+bin-sha: 98718706b3b05778f6a49180ee9f03ac29d2574c4a9e30bb2c580bdab870e598

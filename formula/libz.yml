@@ -1,5 +1,5 @@
 summary: A general purpose data compression library
 webpage: https://zlib.net/
 version: 1.3.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libz-1.3.1-android-29-arm64-v8a.tar.xz
-bin-sha: da3adc00fd882e282e4e304b2a34a4add86565beae66ee510cb4566fbc341d96
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libz-1.3.1-android-29-arm64-v8a.tar.xz
+bin-sha: 1e72693b855786d934d0c27f57a5a949c31a26f3017a770aae2fe5f45de810ba

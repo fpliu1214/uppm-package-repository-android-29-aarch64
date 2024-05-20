@@ -1,0 +1,5 @@
+summary: GNU database manager
+webpage: https://www.gnu.org/software/gdbm
+version: 1.23
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libgdbm-1.23-android-29-arm64-v8a.tar.xz
+bin-sha: 3f6023f2b0f562527405dff6e2863fd8c383f587c96d4b1eae55a4e35b8d1fcd

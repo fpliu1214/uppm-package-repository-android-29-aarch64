@@ -1,5 +1,5 @@
 summary: Simulator for Microchip PIC microcontrollers
 webpage: https://gpsim.sourceforge.io/
 version: 0.32.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/gpsim-0.32.1-android-29-arm64-v8a.tar.xz
-bin-sha: 257f2fff386e4943b98e30a672d8a1b9ed26b653438f7e6d95e9928204ffd24f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/gpsim-0.32.1-android-29-arm64-v8a.tar.xz
+bin-sha: 9b1a3e8435c1f2a4f95c7ede8089592f7f13a1cc6be268724565db849363cc46

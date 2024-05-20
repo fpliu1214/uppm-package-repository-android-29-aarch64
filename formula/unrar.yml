@@ -1,5 +1,5 @@
 summary: Extract, view, and test RAR archives
 webpage: https://www.rarlab.com
 version: 6.0.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/unrar-6.0.2-android-29-arm64-v8a.tar.xz
-bin-sha: e025e5f88f86e69d67e99fa94eb7231e2322708de0c5ab9b24fb169f3bd7a022
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/unrar-6.0.2-android-29-arm64-v8a.tar.xz
+bin-sha: 0dc32a08e36207bba47121d28db9bbbbde503d70fff7a381d597dc38f180e4ff

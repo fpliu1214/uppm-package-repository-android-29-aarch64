@@ -1,5 +1,5 @@
 summary: Create and view interactive cheat sheets for *nix commands
 webpage: https://github.com/cheat/cheat
 version: 4.4.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/cheat-4.4.2-android-29-arm64-v8a.tar.xz
-bin-sha: 76b29eacb4cf2975d30eeec3037bfffd0792733f455d8a4c842556d0e0a59e2a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cheat-4.4.2-android-29-arm64-v8a.tar.xz
+bin-sha: c3ff616eb266a86839707abd5c0385d2b1018e50b4bdb83ef363b85c6a66199f

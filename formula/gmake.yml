@@ -1,5 +1,5 @@
 summary: Utility for directing compilation
 webpage: https://www.gnu.org/software/make
 version: 4.4.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/gmake-4.4.1-android-29-arm64-v8a.tar.xz
-bin-sha: c0f9a3a432f21e41728f7e9434115fe03143cf6f7aab3184efdcb0c732dca035
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/gmake-4.4.1-android-29-arm64-v8a.tar.xz
+bin-sha: dacda7cf7ce65735196a7ab72acd5b45b2e5f840c4250bce30f703d8f67cd8bf

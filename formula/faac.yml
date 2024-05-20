@@ -1,5 +1,5 @@
 summary: ISO AAC audio encoder
 webpage: https://sourceforge.net/projects/faac
 version: 1.30
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/faac-1.30-android-29-arm64-v8a.tar.xz
-bin-sha: 8f835badb8ebef5ecfe1c76618cebdab681c71db90cbd8626b1f9db8212377e9
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/faac-1.30-android-29-arm64-v8a.tar.xz
+bin-sha: 2d255ba46fd31ae1b544b9e378b87a35fa326f8969802cf4eda82d14aeebbe83

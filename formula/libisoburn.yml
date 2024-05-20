@@ -1,5 +1,5 @@
 summary: Frontend for libraries libburn and libisofs
 webpage: https://www.libburnia-project.org
 version: 1.5.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libisoburn-1.5.2-android-29-arm64-v8a.tar.xz
-bin-sha: bf9c3bb0064489b6062e18adc59f08d2bcd6c6a63386b5cffcd527e3a600ad7f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libisoburn-1.5.2-android-29-arm64-v8a.tar.xz
+bin-sha: be4acf14ca5ae5edda314c9de6a5b79bd5774b90fa17a90f22f3aa0f0f152a0c

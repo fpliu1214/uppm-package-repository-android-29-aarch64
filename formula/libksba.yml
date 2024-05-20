@@ -1,5 +1,5 @@
 summary: X.509 and CMS library
 webpage: https://www.gnupg.org/related_software/libksba
 version: 1.6.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libksba-1.6.6-android-29-arm64-v8a.tar.xz
-bin-sha: 8dd9ef016df2d89a553008df5daf5d9269dcf7af20d3318575de5d07005afc79
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libksba-1.6.6-android-29-arm64-v8a.tar.xz
+bin-sha: d27646b259c64285dba2bee050e74b6d714f09e3e238e024fb5c928b8e610aa5

@@ -1,5 +1,5 @@
 summary: Bourne-Again SHell, a UNIX command interpreter
 webpage: https://www.gnu.org/software/bash
 version: 5.2.21
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/bash-5.2.21-android-29-arm64-v8a.tar.xz
-bin-sha: 8a690a46a4aab15ac8e1ac12051f5623957b8e2e3271ec75cade09e2e2c89410
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/bash-5.2.21-android-29-arm64-v8a.tar.xz
+bin-sha: f9131748c616f1daf668beca05d8abd2fc5dc1e9213a6aad2e775780ca80441b

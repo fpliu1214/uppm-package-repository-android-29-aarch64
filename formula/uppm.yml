@@ -1,5 +1,5 @@
 summary: Universal Prebuild Package Manager
 webpage: https://github.com/leleliu008/uppm
 version: 0.17.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/uppm-0.17.0-android-29-arm64-v8a.tar.xz
-bin-sha: e2a13a7027eac544104a67df9f0bf79dbdb08667cfa3738af4041cda0b2446e8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/uppm-0.17.0-android-29-arm64-v8a.tar.xz
+bin-sha: 6c3ca361a558346bf693b8f6b5efdc9dd391605f3745b2708362fb5da19491d2

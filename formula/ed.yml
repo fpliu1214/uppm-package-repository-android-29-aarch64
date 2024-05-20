@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed/ed.html
 version: 1.20.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/ed-1.20.2-android-29-arm64-v8a.tar.xz
-bin-sha: de5faf934cdccb234b596b6bd2aa5b6370029c24bdcec53c6633b45bb4e86857
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/ed-1.20.2-android-29-arm64-v8a.tar.xz
+bin-sha: 7bbe01044f355a320d6a44d5db5f92af2601186eef9c7ba804017d66a454f97c

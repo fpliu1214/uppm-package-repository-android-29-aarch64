@@ -1,5 +1,5 @@
 summary: langinfo.h and its implementation from android ndk source code
 webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/nl_langinfo.html
-version: 2024.05.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/liblanginfo-2024.05.13-android-29-arm64-v8a.tar.xz
-bin-sha: 30a2c3543e1a3af59ca2e208a37d53dd4b14545b74ef2d435995923077480359
+version: 2024.05.20
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/liblanginfo-2024.05.20-android-29-arm64-v8a.tar.xz
+bin-sha: 5be125cc701dcb130b549205784aaa2e04c57a7030b67acef6863c0e2a013b2b

@@ -1,5 +1,5 @@
 summary: Swiss army knife for Debian repository management
 webpage: https://www.aptly.info/
 version: 1.5.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/aptly-1.5.0-android-29-arm64-v8a.tar.xz
-bin-sha: 1b94693b1530512870eb1a2ea1a0b9e7f1e04d67c35f4dba632cc452686e0fe3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/aptly-1.5.0-android-29-arm64-v8a.tar.xz
+bin-sha: 1b46a228f30997101f3933e7681ad6932fc40e4e92290168a2ad85d029eda146

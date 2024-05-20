@@ -1,5 +1,5 @@
 summary: Automatic Language-Agnostic Subtitle Synchronization
 webpage: https://github.com/kaegi/alass
-version: 2024.05.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/alass-2024.05.13-android-29-arm64-v8a.tar.xz
-bin-sha: d92710d421a5ea8f615cef32be40f628243ed8e038645302f5851537bf36fb8c
+version: 2024.05.20
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/alass-2024.05.20-android-29-arm64-v8a.tar.xz
+bin-sha: e90e7db49467fe786db1f0295bc68da12f76b7c093fbb3fa0657e92fc8c7a8ae

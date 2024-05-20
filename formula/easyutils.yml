@@ -1,5 +1,5 @@
 summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.05.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/easyutils-2024.05.13-android-29-arm64-v8a.tar.xz
-bin-sha: 620c650c380b88bb2979808a2ca4d77f3e03188662018e7d71873598d1365e97
+version: 2024.05.20
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/easyutils-2024.05.20-android-29-arm64-v8a.tar.xz
+bin-sha: 5e57d1cc4f43cdd73f705eadc6c5f99a838b9840b79c2c7fb31e3b5a507c82c4

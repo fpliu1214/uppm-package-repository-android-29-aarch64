@@ -1,5 +1,5 @@
 summary: Terminal file manager
-webpage: https://godoc.org/github.com/gokcehan/lf
+webpage: https://github.com/gokcehan/lf
 version: r26
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/lf-r26-android-29-arm64-v8a.tar.xz
-bin-sha: fbecbdab8629bc965bb8fc7062ca0a53437ca6523de7749f26f6aca13971377e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/lf-r26-android-29-arm64-v8a.tar.xz
+bin-sha: 20b7e9376a882a0de8b3cd31bbe415d1fa8abe64eafd2e92a33bc87f39671558

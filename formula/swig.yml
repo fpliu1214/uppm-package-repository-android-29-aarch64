@@ -1,5 +1,5 @@
 summary: A command-line tool for generating scripting interfaces to C/C++ code
 webpage: https://www.swig.org/
 version: 4.2.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/swig-4.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: faddaf03bbcf2c2093f58ea1974c4eb45d3e22a247dc253b4895f299b6fab344
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/swig-4.2.1-android-29-arm64-v8a.tar.xz
+bin-sha: 9fe136c559ec431c3207b6ab9c7beb94ab89ec103c7441898e74dceba8a2c047

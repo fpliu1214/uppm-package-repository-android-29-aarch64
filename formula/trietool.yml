@@ -1,5 +1,5 @@
 summary: A command-line tool for manipulating double-array trie data
 webpage: https://linux.thai.net/~thep/datrie/datrie.html
 version: 0.2.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/trietool-0.2.13-android-29-arm64-v8a.tar.xz
-bin-sha: b9f80dc7b24a60495d111a7a64145aa31022d32c146e0d4b7318e0064de200b4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/trietool-0.2.13-android-29-arm64-v8a.tar.xz
+bin-sha: 9b185b9db9d0d7c3863b349075ad845e2242dc5a7181a980dec8ab7a674d69d7

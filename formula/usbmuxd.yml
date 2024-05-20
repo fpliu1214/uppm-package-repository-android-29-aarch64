@@ -1,5 +1,5 @@
 summary: A socket daemon to multiplex connections from and to iOS devices
 webpage: https://libimobiledevice.org/
 version: 1.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/usbmuxd-1.1.1-android-aarch64.tar.xz
-bin-sha: 1250d76fbed27db25101e3cbbf958cc0c1b3c9efa51902ed582069db967f858d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/usbmuxd-1.1.1-android-aarch64.tar.xz
+bin-sha: 40cd328e75730c49b17e0106528413d34c7db4ddc5d9e7a8415095c274f432f7

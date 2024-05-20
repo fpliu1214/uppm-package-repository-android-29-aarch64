@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS Toolkit
 webpage: https://www.openssl.org/
 version: 3.3.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/openssl-dev-3.3.0-android-29-arm64-v8a.tar.xz
-bin-sha: 1aa85ff2e315ac24ee2283f962e12714a21f648401d14f43899dfd7ecbe90627
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/openssl-dev-3.3.0-android-29-arm64-v8a.tar.xz
+bin-sha: 1193707058880978b4634f454f757533dcf05a27e438d096d2e96efd63c9ce52

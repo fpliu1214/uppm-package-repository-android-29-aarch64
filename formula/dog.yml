@@ -1,5 +1,5 @@
 summary: A command-line DNS client
 webpage: https://dns.lookup.dog/
 version: 0.1.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/dog-0.1.0-android-29-arm64-v8a.tar.xz
-bin-sha: c588eea6e0b487ac53f4f67282e9cd820071ed20b342735a1d4a2e32d2becad3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/dog-0.1.0-android-29-arm64-v8a.tar.xz
+bin-sha: c03fc52014875ed1846a15221a1897303139495134331c0b7d0220803bd5257e

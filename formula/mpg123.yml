@@ -1,5 +1,5 @@
 summary: MP3 player
 webpage: https://www.mpg123.de/
 version: 1.32.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/mpg123-1.32.6-android-29-arm64-v8a.tar.xz
-bin-sha: ababc67c8ca3f72914f2e1cac0ab2165090d34c0a3c23628b1d87270284e3b4a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/mpg123-1.32.6-android-29-arm64-v8a.tar.xz
+bin-sha: a964f4d0af1b692d3eceb3992123227a68e994090d4ff28640fc49563f9eaa33

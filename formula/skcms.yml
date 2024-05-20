@@ -1,5 +1,5 @@
 summary: SkCMS
 webpage: https://skia.googlesource.com/skcms.git
-version: 2024.05.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/skcms-2024.05.13-android-29-arm64-v8a.tar.xz
-bin-sha: 2e7818fc430173a2e2bb93ff03bdb170380bc19d411173ee0cd8dd819984cb80
+version: 2024.05.20
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/skcms-2024.05.20-android-29-arm64-v8a.tar.xz
+bin-sha: 261e5e850459e26ad5ce0ca08b9a198923aa091631ca56ba490c20f601748bc1

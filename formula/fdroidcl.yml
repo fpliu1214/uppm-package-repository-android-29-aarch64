@@ -1,5 +1,5 @@
 summary: F-Droid client
 webpage: https://github.com/mvdan/fdroidcl
 version: 0.7.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/fdroidcl-0.7.0-android-29-arm64-v8a.tar.xz
-bin-sha: 818d5c59da1e7a1c09e3ec56778d3075f6c12a543b1f4a0d05d365694a3baafd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/fdroidcl-0.7.0-android-29-arm64-v8a.tar.xz
+bin-sha: 1b8ca8037e8b2f66ece2533d1bc872ba1082fc5065e67c58cf23db3d523b4c3a

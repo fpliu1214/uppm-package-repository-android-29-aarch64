@@ -1,5 +1,5 @@
 summary: A minimalist svn client to checkout/update Subversion repositories
 webpage: https://github.com/rofl0r/svn-lite
 version: 1.09
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/svn-lite-1.09-android-29-arm64-v8a.tar.xz
-bin-sha: bdb1048358a2e196d0bfed722cca340a4e16822e98473cbe1d66dbae8b2ccb9f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/svn-lite-1.09-android-29-arm64-v8a.tar.xz
+bin-sha: b824226230506c9a729e3ae679d82b8e2fe1aa61f4db58288e9f7ee894b80559

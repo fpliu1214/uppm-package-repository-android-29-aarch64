@@ -1,5 +1,5 @@
 summary: A text shaping engine. It primarily supports OpenType, but also Apple Advanced Typography
 webpage: https://github.com/harfbuzz/harfbuzz
 version: 8.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libharfbuzz-8.4.0-android-29-arm64-v8a.tar.xz
-bin-sha: ff74cf25086e308ea89b21f779db226c0e1a19106802e2947de3b738c089eb98
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libharfbuzz-8.4.0-android-29-arm64-v8a.tar.xz
+bin-sha: 1f9a7616f0d0a7851bfdb485e3cc5ce2753edfb89df6d619b278caba5b46b8a2

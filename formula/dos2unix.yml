@@ -1,5 +1,5 @@
 summary: Convert text between DOS, UNIX, and Mac formats
 webpage: https://waterlan.home.xs4all.nl/dos2unix.html
 version: 7.5.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/dos2unix-7.5.2-android-29-arm64-v8a.tar.xz
-bin-sha: 8187075a6ef1c3d2c83395311773e8265474707a79aad1cc9ce22b151370354b
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/dos2unix-7.5.2-android-29-arm64-v8a.tar.xz
+bin-sha: 12b4e48d5489a557649dd6e17cf712d7ac01f3bc612a5abd7ff240f8acba47bf

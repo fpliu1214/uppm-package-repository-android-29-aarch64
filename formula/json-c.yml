@@ -1,5 +1,5 @@
 summary: A JSON parser for C
 webpage: https://github.com/json-c/json-c
 version: 0.17
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/json-c-0.17-android-29-arm64-v8a.tar.xz
-bin-sha: 8a59b273e78326f8fb01647c3359d6a48a7578dfa5b8861639bbb0ce12ff245a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/json-c-0.17-android-29-arm64-v8a.tar.xz
+bin-sha: 532e68905f401578f07fc454fcb80e701958cb4d33c959c02fae07cd5cf22856

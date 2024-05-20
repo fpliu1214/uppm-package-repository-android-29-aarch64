@@ -1,5 +1,5 @@
 summary: matrix multiplication library
 webpage: https://github.com/google/ruy
-version: 2024.05.13
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/ruy-2024.05.13-android-29-arm64-v8a.tar.xz
-bin-sha: 31b0b71884e1b3740401430437403cd4fc115cc320e5957367780ac48e4d5fe0
+version: 2024.05.20
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/ruy-2024.05.20-android-29-arm64-v8a.tar.xz
+bin-sha: 365f499076b372c3960866b4054b94e63ddd479e3707e8732ec6fa214bfa3e3c

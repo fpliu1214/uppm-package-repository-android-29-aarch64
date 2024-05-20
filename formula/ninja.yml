@@ -1,5 +1,5 @@
 summary: A small build system with a focus on speed
 webpage: https://ninja-build.org
-version: 1.12.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/ninja-1.12.0-android-29-arm64-v8a.tar.xz
-bin-sha: e9a8daa5f1d41d97ed3a4443c056ca459ca74f6013b59917b0eb21250cbbfd4c
+version: 1.12.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/ninja-1.12.1-android-29-arm64-v8a.tar.xz
+bin-sha: 4341969fbae99afb5304b9ebe6cebbab10e1b7ad684d0d4cd49c15c7aab687ad

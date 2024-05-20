@@ -1,5 +1,5 @@
 summary: charset conversion library
 webpage: https://www.gnu.org/software/libiconv
 version: 1.17
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libiconv-1.17-android-29-arm64-v8a.tar.xz
-bin-sha: ebdc76d8a98d2a64f05e69131e5c257bfe553f22e6097448fd55266f09126f6c
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libiconv-1.17-android-29-arm64-v8a.tar.xz
+bin-sha: 4f864dcc543da56aa38532147a8f9a469abe306eca99ddaf37db1f61ebf49649

@@ -1,5 +1,5 @@
 summary: Library with common system API code for libimobiledevice projects
 webpage: https://libimobiledevice.org/
 version: 1.2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/libimobiledevice-glue-1.2.0-android-29-arm64-v8a.tar.xz
-bin-sha: 659ebfd6a9a07b9d30386b6eed1002cca4309dee630a4f21b0c4ea469af6f606
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libimobiledevice-glue-1.2.0-android-29-arm64-v8a.tar.xz
+bin-sha: ccd860157120b35ce7b495679658678edba84905c691d12c129e3d9532c07f4f

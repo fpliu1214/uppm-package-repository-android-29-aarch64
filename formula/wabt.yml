@@ -1,5 +1,5 @@
 summary: Web Assembly Binary Toolkit
 webpage: https://github.com/WebAssembly/wabt
 version: 1.0.34
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/wabt-1.0.34-android-29-arm64-v8a.tar.xz
-bin-sha: c8a8873c45d76ee79127214ce85328b0b56f41eeddaf0f9ebeebf386c32e8bf7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/wabt-1.0.34-android-29-arm64-v8a.tar.xz
+bin-sha: 79b2a55b2e289ac5db9f7096b5d62c40e3d9598881a288605a8f66c3432fd2f2

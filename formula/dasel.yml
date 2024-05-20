@@ -1,5 +1,5 @@
 summary: JSON, YAML, TOML, XML, and CSV query and modification tool
 webpage: https://github.com/TomWright/dasel
 version: 2.7.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/dasel-2.7.0-android-29-arm64-v8a.tar.xz
-bin-sha: c3e59ccfd85b5b7efd76a32d2b1ee7f6039948331b8cfbc0fa350aa31228cf89
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/dasel-2.7.0-android-29-arm64-v8a.tar.xz
+bin-sha: 129b4ca7cfc647e8cbae99ca1340bd69dcb2ac3e0862bdc4c1561fc3e809a717

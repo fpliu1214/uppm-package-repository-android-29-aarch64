@@ -1,5 +1,5 @@
 summary: Validate and define text-based and dynamic configuration
 webpage: https://cuelang.org/
 version: 0.8.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.13/cue-0.8.2-android-29-arm64-v8a.tar.xz
-bin-sha: fb375de3e6221a2e4fe6eb04e8086e3d673c28297bfb52b091f752e6fb1f15f1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cue-0.8.2-android-29-arm64-v8a.tar.xz
+bin-sha: ac73fdd53bffb16df722d1b3d2200a6ab5b12109fb99dedec160e051333b7df4
