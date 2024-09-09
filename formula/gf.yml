@@ -1,0 +1,5 @@
+summary: App development framework of Golang
+webpage: https://goframe.org
+version: 2.7.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/gf-2.7.2-android-29-arm64-v8a.tar.xz
+bin-sha: 0ffc91abaf6722ab81c1d0cc76079860b2e10f7a6859f3ff61cb2793f1e3f591

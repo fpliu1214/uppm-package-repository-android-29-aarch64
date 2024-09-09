@@ -1,5 +1,5 @@
 summary: Pager program similar to more
 webpage: http://www.greenwoodsoftware.com/less/index.html
 version: 643
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/less-643-android-29-arm64-v8a.tar.xz
-bin-sha: a5a18bbb8b71c3aabf06d1c8bc4d15edfaf165cd4d7dd059d50519dde668e9d6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/less-643-android-29-arm64-v8a.tar.xz
+bin-sha: 057102cce03eaa68379248749c0ca8fd533d673a394a4d7b09091a93f945490b

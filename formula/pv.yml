@@ -1,0 +1,5 @@
+summary: Monitor data progress through a pipe
+webpage: https://www.ivarch.com/programs/pv.shtml
+version: 1.8.10
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/pv-1.8.10-android-aarch64.tar.xz
+bin-sha: f058099cedc901537f09afeaaeec2851cfb3785e084cd59d04e6540175f0d7b5

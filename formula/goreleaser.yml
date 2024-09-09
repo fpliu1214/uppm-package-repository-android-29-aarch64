@@ -1,5 +1,5 @@
 summary: Deliver Go binaries as fast and easily as possible
 webpage: https://goreleaser.com/
-version: 1.26.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/goreleaser-1.26.1-android-29-arm64-v8a.tar.xz
-bin-sha: fd7d0c2404480a339ff4a2a1d8e7ec32ef65ed47c35634be428342986c6e5bfa
+version: 2.0.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/goreleaser-2.0.1-android-29-arm64-v8a.tar.xz
+bin-sha: a14c758da0e41639ef11b27922b5336bb23d82e9d5fdb9b3364910274b38ea25

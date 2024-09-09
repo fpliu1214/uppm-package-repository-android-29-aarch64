@@ -1,5 +1,5 @@
 summary: A header-only C/C++ library for conversion to/from half-precision floating point formats
 webpage: https://github.com/Maratyszcza/FP16
-version: 2024.05.20
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/fp16-2024.05.20-android-aarch64.tar.xz
-bin-sha: a398dc40496c9b17d5426369a032f80e2cab8b1625ee2af913c5eec185149e03
+version: 2024.09.09
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/fp16-2024.09.09-android-aarch64.tar.xz
+bin-sha: 4e2d5c2b7a48ca0e6c9676293b5f226a975e40b7d9c20217a00db8649908697e

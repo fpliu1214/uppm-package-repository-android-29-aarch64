@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS Toolkit
 webpage: https://www.openssl.org/
 version: 1.1.1w
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/openssl@1.1-1.1.1w-android-29-arm64-v8a.tar.xz
-bin-sha: b8f036dad300073e2f36c6f6ee5512d9cf8f389e9f0ee86b8bb4bd8c8731f6d0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/openssl-1.1.1w-android-29-arm64-v8a.tar.xz
+bin-sha: bcb760f5553d5c48e6bbd6e6014e6e5cbf9b1c5b715cd5656591e470b4a22c19

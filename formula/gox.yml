@@ -1,5 +1,5 @@
 summary: Go cross compile tool
 webpage: https://github.com/mitchellh/gox
 version: 1.0.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/gox-1.0.1-android-29-arm64-v8a.tar.xz
-bin-sha: cc498419af173631610b33365659b8ea5026b0f073d5c3d8d39af454b518af27
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/gox-1.0.1-android-29-arm64-v8a.tar.xz
+bin-sha: c6374acc3e63cda7ae1be731391f08945930e5f625fe51c1bdc27cf027b09d9d

@@ -1,5 +1,5 @@
 summary: A C library to parse Metalink XML files
 webpage: https://launchpad.net/libmetalink
 version: 0.1.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libmetalink-0.1.3-android-29-arm64-v8a.tar.xz
-bin-sha: 1f61a4814cc35c7586093465498a5e1c1d60d8a7ab98da6b2db6d7f2cbc85026
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libmetalink-0.1.3-android-29-arm64-v8a.tar.xz
+bin-sha: dcaaeee00d1a20cff3f3eb8299d56339c88a8be4a5ee111ae3ae18ddafea862a

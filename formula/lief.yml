@@ -1,5 +1,5 @@
 summary: Library to Instrument Executable Formats
 webpage: https://github.com/lief-project/LIEF
-version: 2024.05.20
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/lief-2024.05.20-android-29-arm64-v8a.tar.xz
-bin-sha: 2482539381794ad6e432bbf67dc480e58c318ded7584e698b779c29aa5d930c0
+version: 2024.09.09
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/lief-2024.09.09-android-29-arm64-v8a.tar.xz
+bin-sha: ada701be2e35cb476715d6bf15acf840319aa61d65ab18e202989e0f059dd0da

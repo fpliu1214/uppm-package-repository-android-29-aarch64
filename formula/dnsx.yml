@@ -1,5 +1,5 @@
 summary: DNS query and resolution tool
 webpage: https://github.com/projectdiscovery/dnsx
 version: 1.2.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/dnsx-1.2.1-android-29-arm64-v8a.tar.xz
-bin-sha: 19307edcc497933bbeb33e19e411722b20dd0156ea124d523805677e4844e017
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/dnsx-1.2.1-android-29-arm64-v8a.tar.xz
+bin-sha: 679979013b7cc9ac5a261ebc5da416f7d8ffb194cded54aeaccd0f7e83a242ec

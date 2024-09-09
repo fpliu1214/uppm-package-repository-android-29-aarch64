@@ -1,5 +1,5 @@
 summary: A helper program to build and install C-ABI compatible dynamic and static libraries
 webpage: https://github.com/lu-zero/cargo-c
-version: 0.9.32
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cargo-c-0.9.32-android-29-arm64-v8a.tar.xz
-bin-sha: e2049144cf3c7545c2d44c225f78582c392e21a23e48d6d3b9d308ca00bc57d8
+version: 0.10.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/cargo-c-0.10.0-android-29-arm64-v8a.tar.xz
+bin-sha: b3407afa3cc53c42bd22d9f4643e71480d63b3972bce33eb0b5ae0de6c2a0e52

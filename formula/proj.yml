@@ -1,5 +1,5 @@
 summary: Cartographic Projections Library
 webpage: https://proj.org/
-version: 9.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/proj-9.4.0-android-29-arm64-v8a.tar.xz
-bin-sha: fcb917b7ca59c1c348f6f0e182c33191f9a5fba1af38d7d728432a4faed4b16c
+version: 9.4.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/proj-9.4.1-android-29-arm64-v8a.tar.xz
+bin-sha: b4426893990272b4f24ca18f7babf051fd8f26553a107fb171bb8fa02d986aaf

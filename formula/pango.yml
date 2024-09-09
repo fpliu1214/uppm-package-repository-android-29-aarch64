@@ -1,5 +1,5 @@
 summary: Framework for layout and rendering of i18n text
 webpage: https://www.pango.org/
-version: 1.52.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/pango-1.52.2-android-29-arm64-v8a.tar.xz
-bin-sha: e60c567573daaba16bcd9364744bc60d24d411b13b7cb20f5528632659d3c32a
+version: 1.54.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/pango-1.54.0-android-29-arm64-v8a.tar.xz
+bin-sha: 7960ee6e53a127639ae51006bafea3470e5ae125f994d0934744f30c444eea5a

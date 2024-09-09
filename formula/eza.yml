@@ -1,5 +1,5 @@
 summary: Modern replacement for ls(1)
 webpage: https://github.com/eza-community/eza
-version: 0.18.16
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/eza-0.18.16-android-29-arm64-v8a.tar.xz
-bin-sha: 40d6e8bb34f574585fdcf9a48072340b1ab57729c6aace307cc2e55934c6f065
+version: 0.18.18
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/eza-0.18.18-android-29-arm64-v8a.tar.xz
+bin-sha: b6df47bb7789790c0ff16446b955cb758b92fbff28634ce0da704a18d0ba6ed7

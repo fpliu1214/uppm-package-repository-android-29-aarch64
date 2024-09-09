@@ -1,5 +1,5 @@
 summary: Optimized MPEG Audio Layer 2 (MP2) encoder
 webpage: https://www.twolame.org/
 version: 0.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/stwolame-0.4.0-android-29-arm64-v8a.tar.xz
-bin-sha: e36dffdea9a7450e531b1f67442cc498045c13d9b1c62ca674b3559fc4d6186f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/stwolame-0.4.0-android-29-arm64-v8a.tar.xz
+bin-sha: 3a7fd3fa11d8f576eac8ab5217d8ab5e5e2995c10bf9a27143ed7a67b346675f

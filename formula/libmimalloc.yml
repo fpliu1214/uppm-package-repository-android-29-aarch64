@@ -1,5 +1,5 @@
 summary: Compact general purpose allocator
 webpage: https://github.com/microsoft/mimalloc
-version: 2.1.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libmimalloc-2.1.6-android-29-arm64-v8a.tar.xz
-bin-sha: f798df323d863978cf8db8aca33a8f335111c99c23a5c589ec33c44f5134da50
+version: 2.1.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libmimalloc-2.1.7-android-29-arm64-v8a.tar.xz
+bin-sha: 94fa5d0d0733326694b793a732e00534965be61c86cf780dd172b6048e40a6fe

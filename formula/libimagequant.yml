@@ -1,5 +1,5 @@
 summary: Palette quantization library extracted from pnquant2
 webpage: https://pngquant.org/lib
 version: 4.3.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libimagequant-4.3.1-android-29-arm64-v8a.tar.xz
-bin-sha: f3d4b210da5851b081971cd699cb6d43ba46cd4dcf1c7d3928f524eee1ba408a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libimagequant-4.3.1-android-29-arm64-v8a.tar.xz
+bin-sha: 05b6cfff3bf354a13e0cfe3d0c3dfd6f5c68f5bc50f5a018fe8677ed6ceff15c

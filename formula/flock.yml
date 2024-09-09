@@ -1,5 +1,5 @@
 summary: flock(1) locks files
 webpage: https://github.com/discoteq/flock
 version: 0.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/flock-0.4.0-android-29-arm64-v8a.tar.xz
-bin-sha: 1d1ae69b97c49d472f30611432e5e27fa7bbbcd7b93b89332de13e66dbd0752a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/flock-0.4.0-android-29-arm64-v8a.tar.xz
+bin-sha: 9c187dcbc51ed882366dd17957ed5fc962047cb78a1d7e00753e33c908614729

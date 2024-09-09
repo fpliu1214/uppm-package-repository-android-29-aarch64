@@ -1,5 +1,5 @@
 summary: Cryptographic library based on the code from GnuPG
 webpage: https://www.gnupg.org/related_software/libgcrypt/
 version: 1.10.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libgcrypt-1.10.3-android-29-arm64-v8a.tar.xz
-bin-sha: 2519eecd858186ec04ba8e0e19476a423bc2fc03c1984ac3e428272a626b2115
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libgcrypt-1.10.3-android-29-arm64-v8a.tar.xz
+bin-sha: 4a2fef3001d1d788709cc994a6d1b23a44e87578713bc0b78b38dc4fe983e569

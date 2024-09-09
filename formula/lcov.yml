@@ -1,5 +1,5 @@
 summary: Graphical front-end for GCC coverage testing tool - gcov
 webpage: http://ltp.sourceforge.net/coverage/lcov.php
-version: 2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/lcov-2.0-android-aarch64.tar.xz
-bin-sha: d96508f1b709860de910b115fba363a9bc7ae25a5cbe20668c66e63331a3d620
+version: 2.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/lcov-2.1-android-aarch64.tar.xz
+bin-sha: bc1e4d4ac66dbaa300a82f31ed0dc5641dddfbeff3272f1338125eb328955ddd

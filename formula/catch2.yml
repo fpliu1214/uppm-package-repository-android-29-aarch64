@@ -1,5 +1,5 @@
 summary: Modern, C++-native, header-only, test framework
 webpage: https://github.com/catchorg/Catch2
-version: 3.5.4
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/catch2-3.5.4-android-29-arm64-v8a.tar.xz
-bin-sha: 3e6962402f689824ef39b0761a5c769c15533d404e4ea85062c9660c27fae0a6
+version: 3.6.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/catch2-3.6.0-android-29-arm64-v8a.tar.xz
+bin-sha: 242a8bf2e2f99a84b173aa262d701586dae634973552951b1400a8d00a7ae412

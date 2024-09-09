@@ -1,5 +1,5 @@
 summary: The C reference implementation of CommonMark
 webpage: https://commonmark.org/
 version: 0.31.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cmark-0.31.0-android-29-arm64-v8a.tar.xz
-bin-sha: 559b146c6d0a390b1a930a636f5e74afc455b9c761e0df7b0c0522bd13e71f16
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/cmark-0.31.0-android-29-arm64-v8a.tar.xz
+bin-sha: 4ca7791e5cb873ed8103050f384502b819f98d21c307b864c4c72f7d085ff67a

@@ -1,5 +1,5 @@
 summary: Computational Geometry Algorithms Library
 webpage: https://www.cgal.org/
 version: 5.6.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cgal-5.6.1-android-aarch64.tar.xz
-bin-sha: 7e5ed6baebd611dfa022d477781fea90ae1b3ea105920e5b06c9aa5fc2e91a8d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/cgal-5.6.1-android-aarch64.tar.xz
+bin-sha: 60925d63f6fbce5206933acfc8fb6711bd4ef3abbfc41ddedd987773407666fa

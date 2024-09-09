@@ -1,5 +1,5 @@
 summary: Find files with SQL-like queries
 webpage: https://github.com/jhspetersson/fselect
 version: 0.8.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/fselect-0.8.6-android-29-arm64-v8a.tar.xz
-bin-sha: deae215f2213088439098a0445f6bd0511b127cfd865e1c1d90d7c31b68e328a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/fselect-0.8.6-android-29-arm64-v8a.tar.xz
+bin-sha: 8b39d499707d792d3dded1aed97325e95763270dfa7eed1de99ab2670d3f231f

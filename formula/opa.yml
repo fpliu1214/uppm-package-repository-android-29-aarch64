@@ -1,0 +1,5 @@
+summary: Open source, general-purpose policy engine
+webpage: https://www.openpolicyagent.org
+version: 0.65.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/opa-0.65.0-android-29-arm64-v8a.tar.xz
+bin-sha: 040f0af1462493b0eecfffa81977d2fd419fa87ea5810ba65ecd2dee57818d64

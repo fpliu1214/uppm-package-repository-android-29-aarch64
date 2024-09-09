@@ -1,5 +1,5 @@
 summary: Audio processing library
 webpage: https://www.surina.net/soundtouch/
 version: 2.3.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/soundtouch-2.3.1-android-29-arm64-v8a.tar.xz
-bin-sha: 15c38841789b463ff9595a35daedcc0f0acc0efe04dc19fc8bd5692b74283cbb
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/soundtouch-2.3.1-android-29-arm64-v8a.tar.xz
+bin-sha: f4e5473b745dea05fc47f1290b4dce4daef94e35d8d66cc3a41d0dff3a893280

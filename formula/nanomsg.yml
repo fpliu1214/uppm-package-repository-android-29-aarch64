@@ -1,5 +1,5 @@
 summary: Socket library in C
 webpage: https://nanomsg.org/
 version: 1.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/nanomsg-1.2-android-29-arm64-v8a.tar.xz
-bin-sha: 232b18fbd334819c3f71fcbc4a80037321d3d1bd654cdb27439ef3fcc30b9077
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/nanomsg-1.2-android-29-arm64-v8a.tar.xz
+bin-sha: f4e3fa866e1de36d15a7f79874ca50687807aa8a06e27d4c90f381bebcc9eced

@@ -1,5 +1,5 @@
 summary: Fast and accurate code counter with complexity and COCOMO estimates
 webpage: https://github.com/boyter/scc
-version: 3.3.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/scc-3.3.3-android-29-arm64-v8a.tar.xz
-bin-sha: c0eaa50b337e6b356c19de7d868491e183e486b3dd717565744ad272dd4e8d6d
+version: 3.3.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/scc-3.3.4-android-29-arm64-v8a.tar.xz
+bin-sha: 47025f324a03a02f61fa3ea75366b94c1d113ea0473be969aee52ae5e2df1032

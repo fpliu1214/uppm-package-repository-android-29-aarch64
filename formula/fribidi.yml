@@ -1,5 +1,5 @@
 summary: Implementation of the Unicode BiDi algorithm
 webpage: https://github.com/fribidi/fribidi
-version: 1.0.14
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/fribidi-1.0.14-android-29-arm64-v8a.tar.xz
-bin-sha: cc541c3cad82a2ba7e7ccc60755a38658d8af8481307f223c7823d1aa8ff80a6
+version: 1.0.15
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/fribidi-1.0.15-android-29-arm64-v8a.tar.xz
+bin-sha: d4bd9d79bd51c13edf00e8d84d50e35f2c6fe1935de584934689d40b18aba729

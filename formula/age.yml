@@ -1,5 +1,5 @@
 summary: Simple, modern, secure file encryption
 webpage: https://filippo.io/age
-version: 1.1.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/age-1.1.1-android-29-arm64-v8a.tar.xz
-bin-sha: cb1b24d05b470d9970a047acd78988acd4d6ff25a89fbd48d295df465e50f1fa
+version: 1.2.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/age-1.2.0-android-29-arm64-v8a.tar.xz
+bin-sha: 7e26e5ed1c28819b8cdd13c6fd6649561c52a9a69a4e90f1421ff7346fbcb882

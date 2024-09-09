@@ -1,5 +1,5 @@
 summary: Toolkit for image loading and pixel buffer manipulation
 webpage: https://gtk.org/
-version: 2.42.10
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/gdk-pixbuf-2.42.10-android-29-arm64-v8a.tar.xz
-bin-sha: 743e3116d28d1333b52b48d72f0fd8332cad65329226a85b3e89c555ce40d932
+version: 2.42.12
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/gdk-pixbuf-2.42.12-android-29-arm64-v8a.tar.xz
+bin-sha: bdab2429c0da821bdf72749bc39a2e74adf3af36f4423f56d34a5675babce9a3

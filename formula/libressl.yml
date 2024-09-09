@@ -1,5 +1,5 @@
 summary: Version of the SSL/TLS protocol forked from OpenSSL
 webpage: https://www.libressl.org/
 version: 3.9.2
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libressl-3.9.2-android-29-arm64-v8a.tar.xz
-bin-sha: 4518805e007b72e6e35765380ef0044b8326b780134f3987919811f24f4220dd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libressl-3.9.2-android-29-arm64-v8a.tar.xz
+bin-sha: 790ba0ffdb283e300196d02ad8b3d35e61249e0ef412a2a51a79146697fc94ea

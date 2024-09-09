@@ -1,5 +1,5 @@
 summary: Terminal based graphical activity monitor inspired by gtop and vtop
 webpage: https://github.com/xxxserxxx/gotop
 version: 4.2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/gotop-4.2.0-android-29-arm64-v8a.tar.xz
-bin-sha: 6fd9f0cd41631f2171fad8a3889cb1791336d803b1c661adb2a7d3e50c091f16
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/gotop-4.2.0-android-29-arm64-v8a.tar.xz
+bin-sha: f988d0d27e3d857290aa79da87e05f5052ab97e3efecc7c2eff6fc873ec84483

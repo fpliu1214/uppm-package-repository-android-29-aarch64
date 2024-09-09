@@ -1,5 +1,5 @@
 summary: Terminal interaction recorder and player
 webpage: http://0xcc.net/ttyrec
 version: 1.0.8
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/ttyrec-1.0.8-android-29-arm64-v8a.tar.xz
-bin-sha: 3004eb23492fe00bce0507bcab194325fe972f96027875e2c65d06d123a6fcbf
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/ttyrec-1.0.8-android-29-arm64-v8a.tar.xz
+bin-sha: 9cadc7a82654c4be2461e26aec5e812dbf32c67f0ce2c988e72c791cfaac0725

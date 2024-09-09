@@ -1,5 +1,5 @@
 summary: An extremely fast JavaScript bundler and minifier
 webpage: https://esbuild.github.io
-version: 0.21.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/esbuild-0.21.3-android-29-arm64-v8a.tar.xz
-bin-sha: 37246b95a5a17637d027a29ad09312ce26972e0d5d3d59a5aab2196eab05dc92
+version: 0.21.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/esbuild-0.21.5-android-29-arm64-v8a.tar.xz
+bin-sha: d0b0d6011043bf41ba98150a67ee823bfc17b6204541fbac2e6ebef6e25218e5

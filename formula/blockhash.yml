@@ -1,5 +1,5 @@
 summary: A perceptual image hash calculation tool based on algorithm descibed in Block Mean Value Based Image Perceptual Hashing by Bian Yang, Fan Gu and Xiamu Niu
 webpage: https://github.com/commonsmachinery/blockhash
 version: 0.3.3
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/blockhash-0.3.3-android-29-arm64-v8a.tar.xz
-bin-sha: 14f3e35953765a0da0ec9e528bde5a81cc5a2360b8d6666a0bb7e5539755ef81
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/blockhash-0.3.3-android-29-arm64-v8a.tar.xz
+bin-sha: f3b25e36c1f6507c501b51427424b32d92acd2fa67dade2b50ce2f60f231ba61

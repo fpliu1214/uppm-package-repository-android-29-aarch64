@@ -1,5 +1,5 @@
 summary: Alternative to backtracking PCRE-style regular expression engines
 webpage: https://github.com/google/re2
-version: 20240501
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/re2-20240501-android-29-arm64-v8a.tar.xz
-bin-sha: 761c591ec1292bf7d3dcd4a21b5de4fcd89f508440424732a118139ce3e41c9c
+version: 20240601
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/re2-20240601-android-29-arm64-v8a.tar.xz
+bin-sha: c766b1d68fb4c13eb22af9a3a3d15c189bd215a30bcdd924ea87835a27d723f5

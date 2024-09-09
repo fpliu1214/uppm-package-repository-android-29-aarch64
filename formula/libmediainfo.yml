@@ -1,5 +1,5 @@
 summary: Unified display of technical and tag data for audio/video
 webpage: https://mediaarea.net/
-version: 24.04
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libmediainfo-24.04-android-29-arm64-v8a.tar.xz
-bin-sha: 6280d43a9b38ff1d85a318afb9c9a4b8c2ffd7b5db993f45f6fabf20eb909c92
+version: 24.05
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libmediainfo-24.05-android-29-arm64-v8a.tar.xz
+bin-sha: 56ee8fb2fd79af19a70f318fbf67879b7a1e3b977f67a5e26f4056a4d393b2bd

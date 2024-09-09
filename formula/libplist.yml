@@ -1,5 +1,5 @@
 summary: A library to handle Apple Property List format in binary or XML
 webpage: https://libimobiledevice.org/
-version: 2.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libplist-2.4.0-android-29-arm64-v8a.tar.xz
-bin-sha: 0cc73ce17192fdd4cd7af7729fa2146a518381ad072a6ea886acd39bd2eade9a
+version: 2.6.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libplist-2.6.0-android-29-arm64-v8a.tar.xz
+bin-sha: 66b3a54d9b343f4c07edee550b046e25617ab138134245928f3aded2b2bea30a

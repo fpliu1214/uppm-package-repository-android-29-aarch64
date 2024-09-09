@@ -1,5 +1,5 @@
 summary: A C library for the arithmetic of high precision complex numbers
 webpage: http://www.multiprecision.org/mpc
 version: 1.3.1
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libmpc-1.3.1-android-29-arm64-v8a.tar.xz
-bin-sha: d34decaec942fc2359a2eb8525584083397eab25b4f755299f7bcf62c7e33bd2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libmpc-1.3.1-android-29-arm64-v8a.tar.xz
+bin-sha: 4b8fbf2a98b647a83b1a0574bf59f73c751f9b3c18fcc452a9e764ef1e82f290

@@ -1,5 +1,5 @@
 summary: A fork of OpenSSL that is designed to meet Google needs
 webpage: https://boringssl.googlesource.com/boringssl/
-version: 2024.05.20
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/boringssl-2024.05.20-android-29-arm64-v8a.tar.xz
-bin-sha: 8f4f8fdefac059a639d5c3b97fa3da8dcb4ad18a491af79e89a3c5808e220eb3
+version: 2024.09.09
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/boringssl-2024.09.09-android-29-arm64-v8a.tar.xz
+bin-sha: 5c163406e2e66f4a93cc4f0477a3e2a068649fb3bff2eed15020177ff30c4f88

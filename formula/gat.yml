@@ -1,0 +1,5 @@
+summary: Cat alternative written in Go
+webpage: https://github.com/koki-develop/gat
+version: 0.17.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/gat-0.17.0-android-29-arm64-v8a.tar.xz
+bin-sha: 2accb56a690f73f1d117624c590dc4de26d7a72ebad32c55db531de4483be1ff

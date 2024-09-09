@@ -1,5 +1,5 @@
 summary: Text interface for Git repositories
 webpage: https://jonas.github.io/tig
 version: 2.5.10
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/tig-2.5.10-android-29-arm64-v8a.tar.xz
-bin-sha: 8c9a800e43f05a764c96c4aae8f03a17c787deb66f0bb69ece732fa5201ddf28
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/tig-2.5.10-android-29-arm64-v8a.tar.xz
+bin-sha: 18b1f0a320ef621517c24a9f2b83bb099f8e40e34be78822f1052555defe7b6d

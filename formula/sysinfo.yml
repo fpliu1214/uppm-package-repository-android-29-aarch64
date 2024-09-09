@@ -1,5 +1,5 @@
 summary: A command-line tool to get your currently running system information
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.05.20
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/sysinfo-2024.05.20-android-29-arm64-v8a.tar.xz
-bin-sha: 61cd7a013412f3547284b83256fc3814bbc07db93580afcca1e6fced346fc49d
+version: 2024.09.09
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/sysinfo-2024.09.09-android-29-arm64-v8a.tar.xz
+bin-sha: 5d24f9c51c516667a60a4ed784ccc5c7c1c6e226b41e66cae7c517953e693ea8

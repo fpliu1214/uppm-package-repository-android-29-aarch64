@@ -1,5 +1,5 @@
 summary: CBOR protocol implementation for C and others
 webpage: https://github.com/PJK/libcbor
 version: 0.11.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/libcbor-0.11.0-android-29-arm64-v8a.tar.xz
-bin-sha: 5b31d89782a9e564aeac8acb492ce22b962a7c593bc3d523b185cc66826a9179
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/libcbor-0.11.0-android-29-arm64-v8a.tar.xz
+bin-sha: eb5671eab125895893a80ed21cc99e20332c385a653179d98c52f1238f30caaf

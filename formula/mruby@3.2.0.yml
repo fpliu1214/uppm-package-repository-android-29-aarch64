@@ -1,5 +1,5 @@
 summary: A lightweight implementation of the Ruby language
 webpage: https://mruby.org/
 version: 3.2.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/mruby@3.2.0-3.2.0-android-29-arm64-v8a.tar.xz
-bin-sha: 3c37f441eea66f3808d3cda9415ad9442f7c2425e3d5fb96c2eb46b1ec882af5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/mruby-3.2.0-android-29-arm64-v8a.tar.xz
+bin-sha: c8be5abcd811b1de3c00291da11b23b5f500f22cd1307303a231b2dec77d1a15

@@ -1,5 +1,5 @@
 summary: Copies files into or out of a cpio or tar archive
 webpage: https://www.gnu.org/software/cpio
 version: 2.15
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/cpio-2.15-android-29-arm64-v8a.tar.xz
-bin-sha: 9ef24d99e3520ea55b64502df49cd9c5bb3aa7fbe56a58c365ed411e76218885
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/cpio-2.15-android-29-arm64-v8a.tar.xz
+bin-sha: 0c7650c047fbf7ab346deba1a36c265814df66319fd0c2439f09160c602a243d

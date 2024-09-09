@@ -1,5 +1,5 @@
 summary: A C++ template library for linear algebra:matrices, vectors, numerical solvers, and related algorithms
 webpage: https://eigen.tuxfamily.org/
 version: 3.4.0
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/eigen3-3.4.0-android-aarch64.tar.xz
-bin-sha: 9709cc0d6e1ca0cdea1a3ba66df19697a1a6da34cc0b91ac0d144932586dc0a5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/eigen3-3.4.0-android-aarch64.tar.xz
+bin-sha: abf91151f762b4c45fe11035b95a6fe58c7de5dc034c6c5c84d3851da2b67e86

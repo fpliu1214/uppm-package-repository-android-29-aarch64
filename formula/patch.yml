@@ -1,5 +1,5 @@
 summary: Apply a diff file to an original
 webpage: https://savannah.gnu.org/projects/patch
 version: 2.7.6
-bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.05.20/patch-2.7.6-android-29-arm64-v8a.tar.xz
-bin-sha: 749e4ce10021ecb5d61f9e165668a3a52373be618d0816958a607820fee9ab05
+bin-url: https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64/releases/download/2024.09.09/patch-2.7.6-android-29-arm64-v8a.tar.xz
+bin-sha: a48be5d63abf73d17f379343f4159246108ca6335f3da9f6fa0185662d9e1e43
