@@ -80,7 +80,7 @@ do
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
@@ -88,7 +88,7 @@ do
         run: |
           case \${{ matrix.pkg }} in
             cmake)
-              /usr/bin/ndk-pkg install android-34-arm64-v8a/\${{ matrix.pkg }} --fsle
+              /usr/bin/ndk-pkg install android-34-arm64-v8a/\${{ matrix.pkg }} --static
               ;;
             *)
               /usr/bin/ndk-pkg install android-29-arm64-v8a/\${{ matrix.pkg }}
@@ -108,7 +108,7 @@ do
 
               PACKAGE_NAME="\${item#*/}"
 
-              PACKAGE_FILENAME="\$(ls \$PACKAGE_NAME-\$PACKAGE_VERSION-*.tar.xz)"
+              PACKAGE_FILENAME="\$(ls \${PACKAGE_NAME%@*}-\$PACKAGE_VERSION-*.tar.xz)"
 
               PACKAGE_BIN_SHA="\$(sha256sum "\$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 

@@ -9,14 +9,14 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [ARM_NEON_2_x86_SSE, aalib, acl, act, actionlint, adig, ag, age, alass, algernon, antibody, apkeep, aptly, archiver, args, aria2, arping, awk, axel, azcopy, b3sum, base16, base64, bash, basis_universal, bat, bc, bcrypt, bgrep, binaryen, bind, binocle, bison, bk, blockhash, boringssl, boxes, brook, broot, bsdtar, bullet, byacc, bzip2, caddy, cargo-c, catch2, ccache, cereal, cfitsio, cflow, cgal, cheat, check, chezmoi, chinese-calendar, chisel, choose, cjson, cli11, clog, cmake, cmark, cmatrix, cmocka, coreutils, cotp, cpio, cpprestsdk, cpptoml, cppunit, cpuid, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dav1d, delta, diffutils, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dos2unix, dot_static, double-conversion, doxygen, dua, duf, dufs, duktape, dust, easyutils, ed, elvish, epsilon, esbuild, ethereum, exa, exhale, exiv2, eza, faac, faad2, fcp, fd, fdk-aac, fdroidcl, fff, figlet, file, findent, findutils, fish, flac, flatc, flex, flock, fontconfig, fortune, fselect, fsmon, fswatch, fzf, fzy, garble, gawk, gbt, gdk-pixbuf, gdu, geographiclib, germanium, getopt, gettext, gettext-tools, gh, giflib, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glib-tools, glog, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, graphicsmagick, graphviz, grep, grex, gron, grpc, grpc-plugins, gsed, gtar, gzip, halibut, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hwloc, hydroxide, hyperfine, id3lib, ideviceinstaller, invoice, isl, iw, ixwebsocket, jfrog-cli, jj, jq, json-glib, jump, kcp, kcptun, keybase, ko, krb5, lame, lazygit, lcms2, lcov, ldns, less, lf, libaec, libaio, libao, libargp, libasprintf, libass, libasync++, libatomic_ops, libb2, libb64, libbcrypt, libbluray, libcaca, libcap, libcbor, libcddb, libcdio, libcerf, libcgif, libcroco, libduktape, libexhale, libexiv2, libflatbuffers, libgetdomainname, libglm, libgraphene, libilbc, libimagequant]
+        pkg: [ARM_NEON_2_x86_SSE, aalib, acl, act, actionlint, adig, ag, age, alass, algernon, antibody, apkeep, aptly, archiver, args, aria2, arping, awk, axel, azcopy, b3sum, base16, base64, bash, basis_universal, bat, bc, bcrypt, bgrep, binaryen, bind, binocle, bison, bk, blockhash, boringssl, boxes, brook, broot, brotli, bsdtar, bullet, busybox, byacc, bzip2, caddy, cargo-c, catch2, ccache, cereal, cflow, cgal, cheat, check, chezmoi, chinese-calendar, chisel, choose, cilium-cli, cjson, cli11, clog, cmake, cmark, cmatrix, cmocka, coreutils, cotp, cpio, cpprestsdk, cpptoml, cppunit, cpuid, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dav1d, delta, diffutils, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dos2unix, dot_static, double-conversion, doxygen, dua, duf, dufs, duktape, dust, easyutils, ed, elvish, epsilon, erdtree, esbuild, ethereum, exa, exhale, exiv2, eza, faac, faad2, fcp, fd, fdk-aac, fdroidcl, fff, figlet, file, findent, findutils, fish, flac, flatc, flex, flock, fontconfig, fortune, fselect, fsmon, fswatch, fzf, fzy, g, garble, gat, gawk, gbt, gdk-pixbuf, gdu, geographiclib, germanium, getopt, gettext, gettext-tools, gf, gh, ghr, gif, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glab, glib-tools, glog, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, graphicsmagick, graphviz, grep, grex, gron, grpc, grpc-plugins, gsed, gtar, gtime, gzip, halibut, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hwloc, hydroxide, hyperfine, id3lib, ideviceinstaller, invoice, ipinfo, isl, iw, ixwebsocket, jfrog-cli, jj, jpegoptim, jq, json-glib, jump, kcp, kcptun, keybase, ko, krb5, lame, lazygit, lcms2, lcov, ldns, less, lf, libaec, libaio, libao, libargp, libasprintf, libass, libasync++, libatomic_ops, libb2, libb64, libbcrypt, libbluray, libcaca, libcap, libcbor, libcddb, libcdio, libcerf]
 
     runs-on: ubuntu-latest
 
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
@@ -24,7 +24,7 @@ jobs:
         run: |
           case ${{ matrix.pkg }} in
             cmake)
-              /usr/bin/ndk-pkg install android-34-arm64-v8a/${{ matrix.pkg }} --fsle
+              /usr/bin/ndk-pkg install android-34-arm64-v8a/${{ matrix.pkg }} --static
               ;;
             *)
               /usr/bin/ndk-pkg install android-29-arm64-v8a/${{ matrix.pkg }}
@@ -44,7 +44,7 @@ jobs:
 
               PACKAGE_NAME="${item#*/}"
 
-              PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
+              PACKAGE_FILENAME="$(ls ${PACKAGE_NAME%@*}-$PACKAGE_VERSION-*.tar.xz)"
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
@@ -70,14 +70,14 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [libintl, libintl-lite, libirecovery, libisoburn, libjpeg, libleveldb, liblinear, liblmdb, liblua, libmaxminddb, libmblen, libmd, libmesalink, libmetalink, libmhash, libmill, libmimalloc, libminiz, libmpc, libmpir, libnetpbm, libnng, libobstack, libopenh264, libphonenumber, libpipeline, libpng++, libpsl, libpugixml, libqalculate, libqrencode, libquiche, libraqm, librasterlite, libraw, libre, libre2c, libressl, librtmp, libsamplerate, libsigsegv, libsmi, libsndfile, libspectre, libspng, libsrtp, libtextstyle, libthai, libtinyxml2, libtorrent-rasterbar, libtwolame, libunwind, libupnp, libusrsctp, libwavpack, libwebm, libxcrypt, libxslt, libyuv, libz3, libzim, libzlog, libzmq, lief, lighttpd, livego, llhttp, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mcfly, md4c, mdbook, mediainfo, minisign, mm-wiki, mold, mosh, mozjpeg, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, naabu, nano, nanomsg, nap, nasm, navi, ncdu, ndk-pkg-core, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, ntbtls, nuclei, numactl, nushell, oat++, obfs4proxy, oboe, openal-soft, opencolorio, opencv, openlibm, openmpi, openssl, openssl-fips, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pget, physfs, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proot2, protobuf, psimd, pup, putty, pybind11, q, qpdf, qrencode, quickjs, ragel, rang, rapidjson, rav1e, rclone, re2c, restic, resvg, ripgrep, ripgrep-all, rlwrap, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, ruy, sassc, scc, sd, shaderc, shc, shell2http, shellharden, shiori, silicon, simdjson, sjpeg, skcms, sl, soundtouch, spdlog, speex, sqlite3, starship, stwolame, stylua, subfinder, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, taglib, tarlz, tbox, tcl, tcpdump, tdu, tealdeer, tectonic, tengo, tiff, tig, tlrc, tmux, tokei, toml++, toml11, tree, trietool, ttyd, ttygif, ttyrec, tweego, typos, uctags, unbound, unrar, uppm, uppm@0.15.2, uppm@0.15.3, usbmuxd, utf8.h, utfcpp, uthash, util-linux, valijson, vegeta, vim, virustotal-cli, vulkan-headers, wabt, wasm3, wasmtime, watchexec, wavpack, webhook, webp]
+        pkg: [libcfitsio, libcgif, libcroco, libduktape, libexhale, libexiv2, libflatbuffers, libgeotiff, libgetdomainname, libglm, libgraphene, libhexdump, libilbc, libimagequant, libintl-lite, libirecovery, libisoburn, libjpeg, libldns, libleveldb, liblinear, liblmdb, liblua, libmaxminddb, libmblen, libmd, libmesalink, libmetalink, libmhash, libmill, libmimalloc, libminiupnpc, libminiz, libmpc, libmpir, libnetpbm, libnng, libobstack, libopenh264, libphonenumber, libphysfs, libpipeline, libpng++, libpsl, libpugixml, libqalculate, libqpdf, libqrencode, libquiche, libraqm, libraw, libre, libre2c, libressl, librtmp, libsamplerate, libsigsegv, libsimdjson, libsmi, libsndfile, libspatialite, libspectre, libspiro, libspng, libsrt, libsrtp, libsvg, libsvm, libtextstyle, libthai, libtinyalsa, libtinyxml2, libtorrent-rasterbar, libtwolame, libuninameslist, libunwind, libupnp, libusrsctp, libwavpack, libwebm, libwmf, libwv2, libxcrypt, libyuv, libz3, libzim, libzlog, libzmq, lief, lighttpd, livego, llhttp, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mawk, mcfly, md4c, mdbook, mediainfo, minisign, mm-wiki, mold, mosh, mozjpeg, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, naabu, nano, nanomsg, nap, nasm, navi, ncdu, ndk-pkg-core, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ngtcp2, ninja, nlohmann-json, nnn, nsh, ntbtls, nuclei, numactl, nushell, oat++, obfs4proxy, oboe, okta-aws-cli, opa, openal-soft, opencolorio, opencv, openlibm, openmpi, openssl, openssl-fips, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pegof, pget, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proot2, protobuf, psimd, pup, putty, pv, pybind11, q, qpdf, qrencode, quickjs, ragel, rancher, rang, rapidjson, rav1e, rclone, re2c, restic, resvg, ripgrep, ripgrep-all, rlwrap, rover, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, ruy, sassc, scc, scdoc, sd, shaderc, shc, shell2http, shellharden, shiori, silicon, sjpeg, skcms, sl, soundtouch, spdlog, speex, sqlite3, starship, stwolame, stylua, subfinder, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, taglib, tarlz, tbox, tcl, tcpdump, tdu, tealdeer, tectonic, tengo, tiff, tig, tinyalsa, tlrc, tmux]
 
     runs-on: ubuntu-latest
 
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
@@ -85,7 +85,7 @@ jobs:
         run: |
           case ${{ matrix.pkg }} in
             cmake)
-              /usr/bin/ndk-pkg install android-34-arm64-v8a/${{ matrix.pkg }} --fsle
+              /usr/bin/ndk-pkg install android-34-arm64-v8a/${{ matrix.pkg }} --static
               ;;
             *)
               /usr/bin/ndk-pkg install android-29-arm64-v8a/${{ matrix.pkg }}
@@ -105,7 +105,7 @@ jobs:
 
               PACKAGE_NAME="${item#*/}"
 
-              PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
+              PACKAGE_FILENAME="$(ls ${PACKAGE_NAME%@*}-$PACKAGE_VERSION-*.tar.xz)"
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
@@ -131,14 +131,14 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [wget, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlutils, xmlwf, xnnpack, xorriso, xpup, xsltproc, xxd, xxhash, xz, yaml-cpp, yasm, youtubedr, yq, yyjson, zip, zlib, zlib-ng, zola, zopfli, zoxide, zsh, zstd, zsync]
+        pkg: [tokei, toml++, toml11, totp-cli, tree, trietool, ttyd, ttygif, ttyrec, tut, tweego, typos, uctags, unbound, unrar, uppm, uppm@0.15.2, uppm@0.15.3, uppm@0.15.4, usbmuxd, utf8.h, utfcpp, uthash, util-linux, valijson, vegeta, vim, virustotal-cli, vulkan-headers, wabt, wasm3, wasmtime, watchexec, wavpack, webhook, webp, websocat, wget, whois, wolfssl, x264, x265, xh, xmake, xmlstarlet, xmlutils, xmlwf, xnnpack, xorriso, xpup, xsltproc, xxd, xxhash, xz, yaml-cpp, yasm, youtubedr, yq, yyjson, zip, zlib, zlib-ng, zola, zopfli, zoxide, zsh, zstd, zsync]
 
     runs-on: ubuntu-latest
 
     container: fpliu/ndk-pkg
 
     steps:
-      - run: /usr/bin/ndk-pkg env
+      - run: /usr/bin/ndk-pkg about
       - run: /usr/bin/ndk-pkg setup
       - run: /usr/bin/ndk-pkg update
 
@@ -146,7 +146,7 @@ jobs:
         run: |
           case ${{ matrix.pkg }} in
             cmake)
-              /usr/bin/ndk-pkg install android-34-arm64-v8a/${{ matrix.pkg }} --fsle
+              /usr/bin/ndk-pkg install android-34-arm64-v8a/${{ matrix.pkg }} --static
               ;;
             *)
               /usr/bin/ndk-pkg install android-29-arm64-v8a/${{ matrix.pkg }}
@@ -166,7 +166,7 @@ jobs:
 
               PACKAGE_NAME="${item#*/}"
 
-              PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
+              PACKAGE_FILENAME="$(ls ${PACKAGE_NAME%@*}-$PACKAGE_VERSION-*.tar.xz)"
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
@@ -251,7 +251,13 @@ jobs:
           \`\`\`
           EOF
 
-          gh release create "$TAGNAME" *.tar.xz sha256sums.txt --title "$TAGNAME" --notes-file notes.md
+          gh release create "$TAGNAME" sha256sums.txt --title "$TAGNAME" --notes-file notes.md
+
+          for f in *.tar.xz
+          do
+            sleep 1s
+            gh release upload "$TAGNAME" "$f"
+          done
 
           git config --global user.name  "leleliu008"
           git config --global user.email "leleliu008@gmail.com"
